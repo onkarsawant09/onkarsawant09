@@ -74,9 +74,9 @@
   </tr>
 </table>
 
-<!--- ANIMATED STATUS LINE (extra animation) --->
+<!--- HACKER-STYLE TERMINAL ANIMATION (Aesthetic & Pro) --->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=800&color=E63946&center=true&vCenter=true&width=500&lines=✨+Always+building+something+new;🚀+Open+to+collaborations;💡+Turning+ideas+into+code;⚡+Learning+never+stops" alt="Animated status" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=➜+~+whoami;tiger+—+full-stack+developer;➜+~+cat+skills.txt;PHP+•+Java+•+Python+•+MySQL;➜+~+git+commit+-m+%22always+learning%22;➜+~+sudo+./build+--release" alt="Hacker Terminal" />
 </p>
 
 <!--- LATEST BLOG POSTS --->
