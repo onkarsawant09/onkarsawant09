@@ -49,8 +49,8 @@
     <td align="center" valign="top" style="padding: 15px 10px; border: none;">
       <h4 style="color: #e63946;">💻 Languages</h4>
       <div style="line-height: 2.5;">
-        <img src="https://skillicons.dev/icons?i=python" width="45" height="45" /><br/>
-        <img src="https://skillicons.dev/icons?i=java" width="45" height="45" /><br/>
+        <img src="https://skillicons.dev/icons?i=python" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=java" width="45" height="45" />
         <img src="https://skillicons.dev/icons?i=php" width="45" height="45" /><br/>
         <img src="https://skillicons.dev/icons?i=js" width="45" height="45" /><br/>
         <img src="https://skillicons.dev/icons?i=c" width="45" height="45" /><br/>
@@ -62,8 +62,8 @@
     <td align="center" valign="top" style="padding: 15px 10px; border: none;">
       <h4 style="color: #e63946;">🛠️ Tools</h4>
       <div style="line-height: 2.5;">
-        <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" /><br/>
-        <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" /><br/>
+        <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" />
         <img src="https://skillicons.dev/icons?i=idea" width="45" height="45" /><br/>
         <img src="https://skillicons.dev/icons?i=git" width="45" height="45" /><br/>
         <img src="https://skillicons.dev/icons?i=github" width="45" height="45" /><br/>
@@ -74,8 +74,8 @@
     <td align="center" valign="top" style="padding: 15px 10px; border: none;">
       <h4 style="color: #e63946;">🗄️ Data</h4>
       <div style="line-height: 2.5;">
-        <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" /><br/>
-        <img src="https://skillicons.dev/icons?i=pandas" width="45" height="45" /><br/>
+        <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=pandas" width="45" height="45" />
         <!-- Seaborn uses python icon as fallback -->
         <img src="https://skillicons.dev/icons?i=python" width="45" height="45" title="Seaborn" />
       </div>
