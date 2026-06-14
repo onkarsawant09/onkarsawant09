@@ -14,22 +14,22 @@
   <img src="https://img.shields.io/github/last-commit/onkarsawant09/onkarsawant09?logo=git&style=for-the-badge&color=0D1117&labelColor=e63946&label=LAST%20COMMIT" />
 </p>
 
-<!--- INTRO + CODING GIF (GIF REDUCED TO 200px) --->
-<table width="100%">
+<!--- INTRO + CODING GIF (NO BORDER, SINGLE LINE PER BULLET) --->
+<table width="100%" cellspacing="0" cellpadding="0" style="border: none;">
   <tr>
-    <td width="60%" valign="top">
+    <td width="65%" valign="top" style="border: none;">
       <h3>⚡ About me</h3>
       <p><em>Self‑taught developer • clean code enthusiast • building for the web</em></p>
-      <ul style="list-style-type: none; padding-left: 0;">
-        <li>‣ <b>Currently building:</b> Full‑stack apps with <b>PHP, MySQL & JavaScript</b></li>
-        <li>‣ <b>Leveling up:</b> Advanced <b>React.js, Node.js & system design</b></li>
-        <li>‣ <b>Ask me about:</b> PHP, Java, Python, Android, Pandas – always happy to help</li>
+      <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+        <li>‣ <b>Currently building:</b> Full‑stack apps with PHP, MySQL & JavaScript</li>
+        <li>‣ <b>Leveling up:</b> Advanced React.js, Node.js & system design</li>
+        <li>‣ <b>Ask me about:</b> PHP, Java, Python, Android, Pandas</li>
         <li>‣ <b>Reach me:</b> <code>tigranomkar09@gmail.com</code></li>
         <li>‣ <b>Experience:</b> <a href="in/onkar-sawant-20264a396">LinkedIn</a> | <a href="https://onkarsawant09.io">Portfolio</a></li>
         <li>‣ <b>Debugging superpower:</b> <code>print()</code> – simple, honest, effective.</li>
       </ul>
     </td>
-    <td width="40%" align="right" valign="middle">
+    <td width="35%" align="right" valign="middle" style="border: none;">
       <img alt="coding" width="200" src="https://camo.githubusercontent.com/4c0f605c23d2e3850116a15d828e556b1f48358cbbc6b382283fb790fa6cb307/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e676966">
     </td>
   </tr>
@@ -66,7 +66,7 @@
       <h3>📚 Top Languages</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkarsawant09&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=e63946" width="90%" />
     </td>
-  </tr>
+  <tr>
 </table>
 
 <!--- CONTRIBUTION ACTIVITY GRAPH --->
