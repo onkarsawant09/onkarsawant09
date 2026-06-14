@@ -75,15 +75,15 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-       <img src="https://skillicons.dev/icons?i=python" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=java" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=php" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=js" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=c" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=html" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=css" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" />
+       <img src="https://skillicons.dev/icons?i=python" width="45" height="50" />
+        <img src="https://skillicons.dev/icons?i=java" width="45" height="50" />
+        <img src="https://skillicons.dev/icons?i=php" width="45" height="50" />
+        <img src="https://skillicons.dev/icons?i=js" width="45" height="50" />
+        <img src="https://skillicons.dev/icons?i=c" width="45" height="50" />
+        <img src="https://skillicons.dev/icons?i=cpp" width="45" height="50" />
+        <img src="https://skillicons.dev/icons?i=html" width="45" height="50" />
+        <img src="https://skillicons.dev/icons?i=css" width="45" height="50" />
+        <img src="https://skillicons.dev/icons?i=mysql" width="45" height="50" />
     <td width="50%" align="center">
           <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" />
         <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" />
