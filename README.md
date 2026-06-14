@@ -52,19 +52,57 @@
 
 <br>
 
-<!-- Stats in a clean row using HTML table for perfect alignment -->
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=onkarsawant09&theme=darkhub&no-frame=true&row=2&column=3" alt="trophies" />
+</p>
+
+---
+
+## 📊 GitHub Stats (Perfect Alignment)
+
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onkarsawant09&show_icons=true&locale=en&layout=compact" alt="onkarsawant09" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onkarsawant09&show_icons=true&locale=en&layout=compact&theme=radical" alt="onkarsawant09" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=onkarsawant09&show_icons=true&locale=en" alt="onkarsawant09" />
+      <img src="https://github-readme-stats.vercel.app/api?username=onkarsawant09&show_icons=true&locale=en&theme=radical" alt="onkarsawant09" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=onkarsawant09&" alt="onkarsawant09" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=onkarsawant09&theme=radical" alt="onkarsawant09" />
     </td>
   </tr>
 </table>
+
+---
+
+## 📈 Contribution Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=onkarsawant09&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%"/>
+</p>
+
+---
+
+## 💬 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+</p>
+
+---
+
+## 🚀 Current Focus
+- 🔭 Building **full-stack web applications** with PHP & JavaScript  
+- 🌱 Deep diving into **React.js** & **Node.js**  
+- 🤝 Looking to collaborate on **open-source PHP/Python projects**  
+- 📝 Writing technical blogs about my coding journey (coming soon)
+
+---
+
+## 📱 Recent Activity (Powered by GitHub)
+<!-- This section automatically updates if you use github-readme-activity-graph or similar. Keeping it static for now -->
+<p align="center">
+  <i>⚡ Check out my pinned repos below to see what I'm up to!</i>
+</p>
