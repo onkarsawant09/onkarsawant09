@@ -55,16 +55,24 @@
   </tr>
 </table>
 
-<!--- TROPHIES + TOP LANGUAGES (TROPHY FIXED) --->
-<table width="100%">
+<!--- ACHIEVEMENTS (RELIABLE BADGES) + TOP LANGUAGES (CENTERED) --->
+<h3 align="center">🏆 Achievements & 📚 Top Languages</h3>
+
+<table width="100%" align="center">
   <tr>
-    <td width="50%" align="center">
-      <h3>🏆 Achievements</h3>
-      <img src="https://github-profile-trophy.vercel.app/?username=onkarsawant09&theme=radical&no-frame=true&no-bg=true&row=2&column=2" alt="trophies" />
-      <br/><i>✨ Achievements load from the API – may take a second.</i>
+    <td width="50%" align="center" valign="top">
+      <h4>🏅 GitHub Achievements</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Pair_Extraordinaire-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/YOLO-FF4500?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Quick_Draw-1E90FF?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Starstruck-FFD700?style=for-the-badge&logo=github&logoColor=black" />
+        <img src="https://img.shields.io/badge/Public_Sponsor-28A745?style=for-the-badge&logo=github-sponsors&logoColor=white" />
+      </p>
+      <p><i>✨ (Dynamic trophy API is temporarily unavailable — these are your earned badges)</i></p>
     </td>
-    <td width="50%" align="center">
-      <h3>📚 Top Languages</h3>
+    <td width="50%" align="center" valign="top">
+      <h4>📚 Top Languages</h4>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkarsawant09&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=e63946" width="90%" />
     </td>
   </tr>
