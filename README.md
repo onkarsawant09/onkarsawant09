@@ -67,9 +67,7 @@
         <img src="https://skillicons.dev/icons?i=idea" width="45" height="45" />
         <img src="https://skillicons.dev/icons?i=git" width="45" height="45" />
         <img src="https://skillicons.dev/icons?i=github" width="45" height="45" />
-       
-      </div>
-    </td>
+    
   </tr>
 </table>
 
