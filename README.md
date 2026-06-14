@@ -14,18 +14,26 @@
   <img src="https://img.shields.io/github/last-commit/onkarsawant09/onkarsawant09?logo=git&style=for-the-badge&color=0D1117&labelColor=e63946&label=LAST%20COMMIT" />
 </p>
 
-      <h3>⚡ About me</h3>
-      <p><em>Self‑taught developer • clean code enthusiast • building for the web</em></p>
-      <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-        <li>‣ <b>Currently building:</b> Full‑stack apps with PHP, MySQL & JavaScript</li>
-        <li>‣ <b>Leveling up:</b> Advanced React.js, Node.js & system design</li>
-        <li>‣ <b>Ask me about:</b> PHP, Java, Python, Android, Pandas</li>
-        <li>‣ <b>Reach me:</b> <code>tigranomkar09@gmail.com</code></li>
-        <li>‣ <b>Experience:</b> <a href="in/onkar-sawant-20264a396">LinkedIn</a> | <a href="https://onkarsawant09.io">Portfolio</a></li>
-        <li>‣ <b>Debugging superpower:</b> <code>print()</code> – simple, honest, effective.</li>
-      </ul>
-      <img alt="coding" width="200" src="https://camo.githubusercontent.com/4c0f605c23d2e3850116a15d828e556b1f48358cbbc6b382283fb790fa6cb307/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e676966">
+<!--- ABOUT ME (NO TABLE, FLEX LAYOUT, GIF ON RIGHT) --->
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; justify-content: space-between;">
+  <div style="flex: 2; min-width: 250px;">
+    <h3>⚡ About me</h3>
+    <p><em>Self‑taught developer • clean code enthusiast • building for the web</em></p>
+    <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+      <li>‣ <b>Currently building:</b> Full‑stack apps with PHP, MySQL & JavaScript</li>
+      <li>‣ <b>Leveling up:</b> Advanced React.js, Node.js & system design</li>
+      <li>‣ <b>Ask me about:</b> PHP, Java, Python, Android, Pandas</li>
+      <li>‣ <b>Reach me:</b> <code>tigranomkar09@gmail.com</code></li>
+      <li>‣ <b>Experience:</b> <a href="in/onkar-sawant-20264a396">LinkedIn</a> | <a href="https://onkarsawant09.io">Portfolio</a></li>
+      <li>‣ <b>Debugging superpower:</b> <code>print()</code> – simple, honest, effective.</li>
+    </ul>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img alt="coding" width="200" src="https://camo.githubusercontent.com/4c0f605c23d2e3850116a15d828e556b1f48358cbbc6b382283fb790fa6cb307/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e676966">
+  </div>
+</div>
 
+<!--- STATS ROW --->
 <h3 align="center">📊 GitHub Analytics (live)</h3>
 
 <table align="center">
@@ -56,7 +64,7 @@
       <h3>📚 Top Languages</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkarsawant09&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=e63946" width="90%" />
     </td>
-  <tr>
+  </tr>
 </table>
 
 <!--- CONTRIBUTION ACTIVITY GRAPH --->
@@ -65,7 +73,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=onkarsawant09&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=e63946&line=e63946&point=ffffff&radius=8" width="95%" />
 </p>
 
-<!-- SNAKE GAME - COMMENTED OUT UNTIL YOU SET UP THE GITHUB ACTION
+<!-- SNAKE GAME - COMMENTED OUT (requires GitHub Action) 
 <h3 align="center">🐍 Snake eating my contributions</h3>
 <p align="center">
   <picture>
@@ -109,7 +117,7 @@
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<!--- RANDOM QUOTE + NOW PLAYING (FIXED) --->
+<!--- RANDOM QUOTE + NOW PLAYING --->
 <h3 align="center">🎧 Dev inspiration & vibes</h3>
 <table width="100%">
   <tr>
