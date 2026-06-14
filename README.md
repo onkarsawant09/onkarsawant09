@@ -55,19 +55,26 @@
   </tr>
 </table>
 
-<!--- TOP LANGUAGES (CENTERED ONLY) --->
+<!--- TOP LANGUAGES --->
 <h3 align="center">📚 Top Languages</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkarsawant09&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=e63946" width="50%" />
 </div>
 
-<!--- CONTRIBUTION ACTIVITY GRAPH --->
+<!--- CONTRIBUTION ACTIVITY GRAPH (LINE CHART) --->
 <h3 align="center">📈 Contribution Landscape</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=onkarsawant09&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=e63946&line=e63946&point=ffffff&radius=8" width="95%" />
 </p>
 
-<!--- UNIQUE GAME SECTION (NO SNAKE, ACTUALLY FUN) --->
+<!--- CONTRIBUTIONS CALENDAR (HEATMAP) --->
+<h3 align="center">📅 Contribution Calendar</h3>
+<p align="center">
+  <img src="https://ghchart.rshah.org/onkarsawant09?style=flat-square&theme=radical" alt="GitHub Contributions Calendar" width="95%" />
+  <br/><i>✨ Daily contributions heatmap – greener means more active</i>
+</p>
+
+<!--- GAME SECTION (NO SNAKE, UNIQUE) --->
 <h3 align="center">🎮 Play a quick coding game</h3>
 <p align="center">
   <a href="https://play2048.co/">
@@ -131,7 +138,7 @@
       <i>🔥 Currently coding to: Lo-Fi Beats | Chillhop Radio</i>
     </td>
   </tr>
-</table>
+<table>
 
 <!--- SOCIALS & SUPPORT --->
 <h3 align="center">🌐 Connect & support</h3>
