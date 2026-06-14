@@ -1,4 +1,4 @@
-<!--- ANIMATED TYPING HEADER (WORKING URL) --->
+<!--- ANIMATED TYPING HEADER --->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tiger;Code.+Build.+Improve.;Full‑Stack+Developer;PHP+%7C+Java+%7C+Python;Problem+Solver" alt="Typing SVG" />
 </p>
@@ -31,7 +31,7 @@
       <img alt="coding" width="280" src="https://camo.githubusercontent.com/4c0f605c23d2e3850116a15d828e556b1f48358cbbc6b382283fb790fa6cb307/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e676966">
     </td>
   </tr>
-</table>
+</tr>
 
 <!--- STATS ROW --->
 <h3 align="center">📊 GitHub Analytics (live)</h3>
@@ -72,7 +72,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=onkarsawant09&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=e63946&line=e63946&point=ffffff&radius=8" width="95%" />
 </p>
 
-<!--- SNAKE GAME (optional) --->
+<!--- SNAKE GAME (optional, requires action) --->
 <h3 align="center">🐍 Snake eating my contributions</h3>
 <p align="center">
   <picture>
@@ -115,7 +115,7 @@
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<!--- RANDOM QUOTE + NOW PLAYING (FIXED: no broken image) --->
+<!--- RANDOM QUOTE + SPOTIFY WIDGET (UPDATED) --->
 <h3 align="center">🎧 Dev inspiration & vibes</h3>
 <table width="100%">
   <tr>
@@ -123,14 +123,10 @@
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="90%" />
     </td>
     <td width="50%" align="center">
-      <p align="center">
-        <img src="https://img.shields.io/badge/🔥_Currently_coding_to-Lo--Fi_Beats-e63946?style=for-the-badge&logo=spotify&logoColor=white" />
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Chillhop_Radio-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-        <br/>
-        <i>“Music that keeps the flow state alive”</i>
-      </p>
+      <!-- LIVE SPOTIFY WIDGET - Shows what you're playing right now -->
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ldrrykp2abn27oyf45wc2tmgsa&cover_image=true&theme=default&border_radius=10&bar_color=e63946" alt="Spotify Now Playing" />
+      <br/>
+      <i>🎵 Live from Spotify — updates with what I'm listening to</i>
     </td>
   </tr>
 </table>
@@ -141,6 +137,7 @@
   <a href="https://linkedin.com/in/onkar-sawant-20264a396"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/tigranomkar_.09"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://topcoder.com/members/410509"><img src="https://img.shields.io/badge/TopCoder-29A7E1?style=for-the-badge&logo=topcoder&logoColor=white" /></a>
+  <a href="https://open.spotify.com/user/31ldrrykp2abn27oyf45wc2tmgsa"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a>
   <a href="https://buymeacoffee.com/vh6cy267vhg"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 </p>
 
