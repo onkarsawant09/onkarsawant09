@@ -17,7 +17,7 @@
 <!--- ABOUT ME (BORDERLESS TABLE, GIF PUSHED RIGHT) --->
 <table width="100%" cellpadding="0" cellspacing="0" style="border: none;">
   <tr>
-    <td width="60%" valign="top" style="border: none;">
+    <td width="80%" valign="top" style="border: none;">
       <h3>⚡ About me</h3>
       <p><em>Self‑taught developer • clean code enthusiast • building for the web</em></p>
       <ul style="list-style-type: none; padding-left: 0; margin: 0;">
@@ -29,7 +29,7 @@
         <li>‣ <b>Debugging superpower:</b> <code>print()</code> – simple, honest, effective.</li>
       </ul>
     </td>
-    <td width="40%" align="right" valign="middle" style="border: none;">
+    <td width="20%" align="right" valign="middle" style="border: none;">
       <img alt="coding" width="200" src="https://camo.githubusercontent.com/4c0f605c23d2e3850116a15d828e556b1f48358cbbc6b382283fb790fa6cb307/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e676966">
     </td>
   </tr>
