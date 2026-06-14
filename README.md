@@ -54,7 +54,7 @@
         <img src="https://skillicons.dev/icons?i=php" width="45" height="45" />
         <img src="https://skillicons.dev/icons?i=js" width="45" height="45" />
         <img src="https://skillicons.dev/icons?i=c" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" /><br/>
+        <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" />
         <img src="https://skillicons.dev/icons?i=html" width="45" height="45" />
         <img src="https://skillicons.dev/icons?i=css" width="45" height="45" />
       </div>
@@ -65,8 +65,8 @@
         <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" />
         <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" />
         <img src="https://skillicons.dev/icons?i=idea" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=git" width="45" height="45" /><br/>
-        <img src="https://skillicons.dev/icons?i=github" width="45" height="45" /><br/>
+        <img src="https://skillicons.dev/icons?i=git" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=github" width="45" height="45" />
         <!-- Dev C++ doesn't have an official icon, using codeblocks as fallback -->
         <img src="https://skillicons.dev/icons?i=codeblocks" width="45" height="45" title="Dev C++" />
       </div>
