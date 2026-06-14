@@ -66,23 +66,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=➜+~+whoami;tiger+—+full-stack+developer;➜+~+cat+skills.txt;PHP+•+Java+•+Python+•+MySQL;➜+~+git+commit+-m+%22always+learning%22;➜+~+sudo+./build+--release" alt="Hacker Terminal" />
 </p>
 
-<!--- GAME SECTION --->
-<h3 align="center">🎮 Play a quick coding game</h3>
-<p align="center">
-  <a href="https://play2048.co/">
-    <img src="https://img.shields.io/badge/🎲%20Play%202048%20(Coding%20Edition)-EA4335?style=for-the-badge&logo=game&logoColor=white" />
-  </a>
-  <a href="https://humanbenchmark.com/tests/typing">
-    <img src="https://img.shields.io/badge/⌨️%20Typing%20Test%20for%20Devs-3776AB?style=for-the-badge&logo=keyboard&logoColor=white" />
-  </a>
-  <a href="https://codinggame.github.io/">
-    <img src="https://img.shields.io/badge/🚀%20Code%20Clicker%20(Incremental)-FFD700?style=for-the-badge&logo=code&logoColor=black" />
-  </a>
-</p>
-<p align="center">
-  <i>✨ Challenge yourself – best scores? Try beating my high!</i>
-</p>
-
 <!--- CONTRIBUTION LANDSCAPE --->
 <h3 align="center">📈 Contribution Landscape</h3>
 <p align="center">
@@ -112,7 +95,24 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=onkarsawant09&theme=radical&hide_border=true&background=0D1117&stroke=e63946&ring=e63946&fire=e63946&currStreakLabel=e63946" alt="GitHub Streak" />
 </p>
 
-<!--- SOCIALS & SUPPORT (moved to last) --->
+<!--- PLAY A QUICK CODING GAME (second last) --->
+<h3 align="center">🎮 Play a quick coding game</h3>
+<p align="center">
+  <a href="https://play2048.co/">
+    <img src="https://img.shields.io/badge/🎲%20Play%202048%20(Coding%20Edition)-EA4335?style=for-the-badge&logo=game&logoColor=white" />
+  </a>
+  <a href="https://humanbenchmark.com/tests/typing">
+    <img src="https://img.shields.io/badge/⌨️%20Typing%20Test%20for%20Devs-3776AB?style=for-the-badge&logo=keyboard&logoColor=white" />
+  </a>
+  <a href="https://codinggame.github.io/">
+    <img src="https://img.shields.io/badge/🚀%20Code%20Clicker%20(Incremental)-FFD700?style=for-the-badge&logo=code&logoColor=black" />
+  </a>
+</p>
+<p align="center">
+  <i>✨ Challenge yourself – best scores? Try beating my high!</i>
+</p>
+
+<!--- SOCIALS & SUPPORT (last) --->
 <h3 align="center">🌐 Connect & support</h3>
 <p align="center">
   <a href="https://linkedin.com/in/onkar-sawant-20264a396"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
