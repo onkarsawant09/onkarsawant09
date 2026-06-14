@@ -15,7 +15,7 @@
 </p>
 
 <!--- ABOUT ME (BORDERLESS TABLE, GIF PUSHED RIGHT) --->
-<table width="100%" cellpadding="0" cellspacing="0" style="border: none;">
+<table width="100%" cellpadding="0" cellspacing="0" >
   <tr>
     <td width="80%" valign="top" style="border: none;">
       <h3>⚡ About me</h3>
