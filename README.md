@@ -61,23 +61,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkarsawant09&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=e63946" width="50%" />
 </div>
 
-<!--- CONTRIBUTION ACTIVITY GRAPH --->
+<!--- CONTRIBUTION ACTIVITY GRAPH (REGULAR) --->
 <h3 align="center">📈 Contribution Landscape</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=onkarsawant09&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=e63946&line=e63946&point=ffffff&radius=8" width="95%" />
 </p>
 
-<!-- SNAKE GAME - COMMENTED OUT (requires GitHub Action) 
-<h3 align="center">🐍 Snake eating my contributions</h3>
+<!--- UNIQUE 3D CONTRIBUTION CALENDAR (REPLACES SNAKE) --->
+<h3 align="center">🗿 3D Contribution Year</h3>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onkarsawant09/onkarsawant09/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onkarsawant09/onkarsawant09/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/onkarsawant09/onkarsawant09/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-  <br/><i>✨ To enable, add the Platane/snk GitHub Action to your repo.</i>
+  <img src="https://raw.githubusercontent.com/onkarsawant09/onkarsawant09/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
+  <br/><i>✨ 3D view of my GitHub activity – auto‑updates daily</i>
 </p>
--->
 
 <!--- TECH ARSENAL - CATEGORIZED --->
 <h3 align="center">⚡ Tech Arsenal</h3>
