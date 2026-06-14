@@ -74,12 +74,53 @@
   </tr>
 </table>
 
+<!--- 🌨️ AMBIENT EFFECT: SNOW (Animated SVG, no external scripts) --->
+<div align="center">
+  <svg width="300" height="60" viewBox="0 0 300 60" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="20" cy="10" r="2" fill="white">
+      <animate attributeName="cy" from="10" to="60" dur="3s" repeatCount="indefinite" />
+      <animate attributeName="opacity" from="1" to="0" dur="3s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="50" cy="5" r="1.5" fill="white">
+      <animate attributeName="cy" from="5" to="60" dur="2.5s" repeatCount="indefinite" />
+      <animate attributeName="opacity" from="1" to="0" dur="2.5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="80" cy="20" r="2.5" fill="white">
+      <animate attributeName="cy" from="20" to="60" dur="3.5s" repeatCount="indefinite" />
+      <animate attributeName="opacity" from="1" to="0" dur="3.5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="120" cy="15" r="2" fill="white">
+      <animate attributeName="cy" from="15" to="60" dur="2.8s" repeatCount="indefinite" />
+      <animate attributeName="opacity" from="1" to="0" dur="2.8s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="160" cy="8" r="1.8" fill="white">
+      <animate attributeName="cy" from="8" to="60" dur="3.2s" repeatCount="indefinite" />
+      <animate attributeName="opacity" from="1" to="0" dur="3.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="200" cy="25" r="2.2" fill="white">
+      <animate attributeName="cy" from="25" to="60" dur="2.7s" repeatCount="indefinite" />
+      <animate attributeName="opacity" from="1" to="0" dur="2.7s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="240" cy="12" r="1.5" fill="white">
+      <animate attributeName="cy" from="12" to="60" dur="3.9s" repeatCount="indefinite" />
+      <animate attributeName="opacity" from="1" to="0" dur="3.9s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="270" cy="18" r="2" fill="white">
+      <animate attributeName="cy" from="18" to="60" dur="3s" repeatCount="indefinite" />
+      <animate attributeName="opacity" from="1" to="0" dur="3s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="290" cy="30" r="1.2" fill="white">
+      <animate attributeName="cy" from="30" to="60" dur="2.2s" repeatCount="indefinite" />
+      <animate attributeName="opacity" from="1" to="0" dur="2.2s" repeatCount="indefinite" />
+    </circle>
+  </svg>
+  <br/><i>❄️ Soft snowfall — pure SVG animation</i>
+</div>
+
 <!--- HACKER-STYLE TERMINAL ANIMATION --->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=➜+~+whoami;tiger+—+full-stack+developer;➜+~+cat+skills.txt;PHP+•+Java+•+Python+•+MySQL;➜+~+git+commit+-m+%22always+learning%22;➜+~+sudo+./build+--release" alt="Hacker Terminal" />
 </p>
-
-
 
 <!--- GAME SECTION --->
 <h3 align="center">🎮 Play a quick coding game</h3>
@@ -118,7 +159,7 @@
       <br/>
       <i>🔥 Currently coding to: Lo-Fi Beats | Chillhop Radio</i>
     </td>
-  </tr>
+  <tr>
 </table>
 
 <!--- SOCIALS & SUPPORT --->
@@ -130,7 +171,7 @@
   <a href="https://buymeacoffee.com/vh6cy267vhg"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 </p>
 
-<!--- STREAK STATS (NEW SECTION) --->
+<!--- STREAK STATS --->
 <h3 align="center">🔥 GitHub Streak Stats</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=onkarsawant09&theme=radical&hide_border=true&background=0D1117&stroke=e63946&ring=e63946&fire=e63946&currStreakLabel=e63946" alt="GitHub Streak" />
