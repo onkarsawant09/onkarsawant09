@@ -61,7 +61,8 @@
   <img src="https://skillicons.dev/icons?i=github" height="55" alt="github" />
 </div>
 
-<!--- 🌨️ AMBIENT EFFECT: SNOW --->
+<!--- 
+--->
 <div align="center">
   <svg width="300" height="60" viewBox="0 0 300 60" xmlns="http://www.w3.org/2000/svg">
     <circle cx="20" cy="10" r="2" fill="white">
