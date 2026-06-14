@@ -60,7 +60,7 @@
         <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" />
       </div>
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="500%" align="center" valign="top">
       <h4 style="color: #e63946;">🛠️ Software Tools</h4>
       <div style="line-height: 2.5;">
         <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" />
