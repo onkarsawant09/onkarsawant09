@@ -46,7 +46,7 @@
 
 <table width="100%" cellpadding="0" cellspacing="0" style="border: none;">
   <tr>
-   <td width="65%" valign="top" style="border: none;">
+   <td width="65%" valign="center" style="border: none;">
       <h4 style="color: #e63946;">💻 Programming Languages</h4>
       <div style="line-height: 2.5;">
         <img src="https://skillicons.dev/icons?i=python" width="45" height="45" />
