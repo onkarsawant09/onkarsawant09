@@ -46,7 +46,7 @@
 
 <table width="200%" style="border: none; table-layout: fixed;">
   <colgroup>
-    <col style="width: 70%;" />
+    <col style="width: 170%;" />
     <col style="width: 30%;" />
   </colgroup>
   <tr>
