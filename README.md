@@ -67,7 +67,7 @@
 </p>
 
 <!--- CONTRIBUTION LANDSCAPE --->
-<h3 align="center">📈 Contribution Landscape</h3>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=onkarsawant09&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=e63946&line=e63946&point=ffffff&radius=8" width="95%" />
 </p>
