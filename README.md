@@ -40,7 +40,7 @@
     </td>
   </tr>
 </table>
-
+<center>
 <!--- SKILLS (2 COLUMNS, ICON-BASED) --->
 <h3 align="center">⚡ Skills</h3>
 
@@ -76,7 +76,7 @@
     </td>
   </tr>
 </table>
-
+</center>
 <!--- 🌨️ AMBIENT EFFECT: SNOW --->
 <div align="center">
   <svg width="300" height="60" viewBox="0 0 300 60" xmlns="http://www.w3.org/2000/svg">
