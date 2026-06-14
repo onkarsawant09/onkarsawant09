@@ -46,8 +46,8 @@
 
 <table width="100%" style="border: none; table-layout: fixed;">
   <colgroup>
-    <col style="width: 50%;" />
-    <col style="width: 50%;" />
+    <col style="width: 70%;" />
+    <col style="width: 30%;" />
   </colgroup>
   <tr>
     <td align="center" valign="top" style="padding: 15px 10px; border: none;">
@@ -64,7 +64,7 @@
         <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" />
       </div>
     </td>
-    <td align="center" valign="top" style="padding: 20px 10px; border: none;">
+    <td align="center" valign="top" style="padding:15px 10px; border: none;">
       <h4 style="color: #e63946;">🛠️ Tools & Data</h4>
       <div style="line-height: 2.5;">
         <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" />
