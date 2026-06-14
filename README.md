@@ -36,7 +36,7 @@
   </tr>
 </table>
 
-<!--- SKILLS (2 COLUMNS, UPDATED AS REQUESTED) --->
+<!--- SKILLS (2 COLUMNS, ICON-BASED) --->
 <h3 align="center">⚡ Skills</h3>
 
 <table width="100%" style="border: none; table-layout: fixed;">
@@ -73,6 +73,11 @@
     </td>
   </tr>
 </table>
+
+<!--- ANIMATED STATUS LINE (extra animation) --->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=800&color=E63946&center=true&vCenter=true&width=500&lines=✨+Always+building+something+new;🚀+Open+to+collaborations;💡+Turning+ideas+into+code;⚡+Learning+never+stops" alt="Animated status" />
+</p>
 
 <!--- LATEST BLOG POSTS --->
 <h3 align="center">📝 Latest Blog Posts</h3>
@@ -121,7 +126,7 @@
       <i>🔥 Currently coding to: Lo-Fi Beats | Chillhop Radio</i>
     </td>
   </tr>
-<table>
+</table>
 
 <!--- SOCIALS & SUPPORT --->
 <h3 align="center">🌐 Connect & support</h3>
