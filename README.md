@@ -36,14 +36,13 @@
   </tr>
 </table>
 
-<!--- SKILLS (ICON-BASED, WIDER TABLE) --->
+<!--- SKILLS (2 COLUMNS, ICON-BASED, DATA MERGED INTO TOOLS) --->
 <h3 align="center">⚡ Skills</h3>
 
 <table width="100%" style="border: none; table-layout: fixed;">
   <colgroup>
-    <col style="width: 34%;" />
-    <col style="width: 33%;" />
-    <col style="width: 40%;" />
+    <col style="width: 50%;" />
+    <col style="width: 50%;" />
   </colgroup>
   <tr>
     <td align="center" valign="top" style="padding: 15px 10px; border: none;">
@@ -60,23 +59,16 @@
       </div>
     </td>
     <td align="center" valign="top" style="padding: 15px 10px; border: none;">
-      <h4 style="color: #e63946;">🛠️ Tools</h4>
+      <h4 style="color: #e63946;">🛠️ Tools & Data</h4>
       <div style="line-height: 2.5;">
         <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" />
         <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" />
         <img src="https://skillicons.dev/icons?i=idea" width="45" height="45" />
         <img src="https://skillicons.dev/icons?i=git" width="45" height="45" />
         <img src="https://skillicons.dev/icons?i=github" width="45" height="45" />
-        <!-- Dev C++ doesn't have an official icon, using codeblocks as fallback -->
         <img src="https://skillicons.dev/icons?i=codeblocks" width="45" height="45" title="Dev C++" />
-      </div>
-    </td>
-    <td align="center" valign="top" style="padding: 15px 10px; border: none;">
-      <h4 style="color: #e63946;">🗄️ Data</h4>
-      <div style="line-height: 2.5;">
         <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" />
         <img src="https://skillicons.dev/icons?i=pandas" width="45" height="45" />
-        <!-- Seaborn uses python icon as fallback -->
         <img src="https://skillicons.dev/icons?i=python" width="45" height="45" title="Seaborn" />
       </div>
     </td>
