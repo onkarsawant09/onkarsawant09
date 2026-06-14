@@ -42,21 +42,21 @@
 </table>
 
 ### Languages and Tools:
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio" />
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="idea" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="55" alt="java" />
+  <img src="https://skillicons.dev/icons?i=python" height="55" alt="python" />
+  <img src="https://skillicons.dev/icons?i=php" height="55" alt="php" />
+  <img src="https://skillicons.dev/icons?i=js" height="55" alt="javascript" />
+  <img src="https://skillicons.dev/icons?i=c" height="55" alt="c" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="cplusplus" />
+  <img src="https://skillicons.dev/icons?i=html" height="55" alt="html" />
+  <img src="https://skillicons.dev/icons?i=css" height="55" alt="css" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="mysql" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="55" alt="vscode" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="55" alt="androidstudio" />
+  <img src="https://skillicons.dev/icons?i=idea" height="55" alt="idea" />
+  <img src="https://skillicons.dev/icons?i=git" height="55" alt="git" />
+  <img src="https://skillicons.dev/icons?i=github" height="55" alt="github" />
 </div>
 
 <!--- 🌨️ AMBIENT EFFECT: SNOW --->
