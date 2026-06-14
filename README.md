@@ -67,14 +67,17 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=onkarsawant09&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=e63946&line=e63946&point=ffffff&radius=8" width="95%" />
 </p>
 
-<!--- CONTRIBUTIONS CALENDAR (HEATMAP) --->
-<h3 align="center">📅 Contribution Calendar</h3>
-<p align="center">
-  <img src="https://ghchart.rshah.org/onkarsawant09?style=flat-square&theme=radical" alt="GitHub Contributions Calendar" width="95%" />
-  <br/><i>✨ Daily contributions heatmap – greener means more active</i>
-</p>
+<!--- LATEST BLOG POSTS (DYNAMIC, REPLACES CALENDAR) --->
+<h3 align="center">📝 Latest Blog Posts</h3>
+<div align="center">
+  <!-- BLOG-POST-LIST:START -->
+  <!-- This list will auto-update when you set up the GitHub Action -->
+  <!-- Check the instructions below to enable it -->
+  <!-- BLOG-POST-LIST:END -->
+  <p><i>✨ Sharing what I learn – articles about code, dev tools, and life as a programmer.</i></p>
+</div>
 
-<!--- GAME SECTION (NO SNAKE, UNIQUE) --->
+<!--- GAME SECTION (UNIQUE, NO SNAKE) --->
 <h3 align="center">🎮 Play a quick coding game</h3>
 <p align="center">
   <a href="https://play2048.co/">
@@ -138,7 +141,7 @@
       <i>🔥 Currently coding to: Lo-Fi Beats | Chillhop Radio</i>
     </td>
   </tr>
-<table>
+</table>
 
 <!--- SOCIALS & SUPPORT --->
 <h3 align="center">🌐 Connect & support</h3>
