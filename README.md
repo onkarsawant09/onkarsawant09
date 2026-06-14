@@ -3,9 +3,9 @@
   <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/banner2.gif" alt="banner" width="100%" />
 </p>
 
-<!--- ANIMATED TYPING HEADER --->
+<!--- ANIMATED TYPING HEADER (with wave emoji) --->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tiger;Code.+Build.+Improve.;Full‑Stack+Developer;PHP+%7C+Java+%7C+Python;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Tiger;Code.+Build.+Improve.;Full‑Stack+Developer;PHP+%7C+Java+%7C+Python;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <!--- PROFILE VIEWS (CENTERED) --->
@@ -48,7 +48,7 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <h4 style="color: #e63946;">💻 Programming Languages</h4>
-       <div style="line-height: 2.5;">
+      <div style="line-height: 2.5;">
         <img src="https://skillicons.dev/icons?i=python" width="45" height="45" />
         <img src="https://skillicons.dev/icons?i=java" width="45" height="45" />
         <img src="https://skillicons.dev/icons?i=php" width="45" height="45" />
@@ -70,9 +70,8 @@
         <img src="https://skillicons.dev/icons?i=github" width="45" height="45" />
       </div>
     </td>
-  </tr>
+  </table>
 </table>
-
 
 <!--- 🌨️ AMBIENT EFFECT: SNOW --->
 <div align="center">
@@ -160,7 +159,7 @@
       <i>🔥 Currently coding to: Lo-Fi Beats | Chillhop Radio</i>
     </td>
   </tr>
-</table>
+<table>
 
 <!--- SOCIALS & SUPPORT --->
 <h3 align="center">🌐 Connect & support</h3>
