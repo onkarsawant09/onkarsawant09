@@ -41,42 +41,36 @@
   </tr>
 </table>
 
-<!--- 🌟 ENHANCED LANGUAGES AND TOOLS SECTION --->
-### 🛠️ Languages and Tools:
-
-<div align="left">
-  <!-- Row 1: core languages & frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
-  
-  <!-- Row 2: backend & databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle" />
-  
-  <!-- Row 3: mobile, game dev & tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects" />
-</div>
+<!--- NEW LANGUAGES AND TOOLS SECTION (exactly as requested) --->
+<h3 align="center">🛠️ Languages & Tools</h3>
+<table width="100%" style="border: none;">
+  <tr>
+    <td width="50%" align="center" valign="top" style="border: none;">
+      <h4 style="color: #e63946;">💻 Programming Languages</h4>
+      <div style="line-height: 2.5;">
+        <img src="https://skillicons.dev/icons?i=python" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=java" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=php" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=js" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=c" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=html" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=css" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" />
+      </div>
+    </td>
+    <td width="50%" align="center" valign="top" style="border: none;">
+      <h4 style="color: #e63946;">🛠️ Software Tools</h4>
+      <div style="line-height: 2.5;">
+        <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=idea" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=git" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=github" width="45" height="45" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 <!--- 🌨️ AMBIENT EFFECT: SNOW --->
 <div align="center">
