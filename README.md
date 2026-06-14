@@ -41,16 +41,12 @@
   </tr>
 </table>
 
-<!--- SKILLS (FULL WIDTH, FROM LEFT TO RIGHT MARGIN) --->
+<!--- SKILLS (FULL WIDTH, SAME AS QUOTE TABLE) --->
 <h3 align="center">⚡ Skills</h3>
 
-<table width="100%" style="border: none; margin: 0; width: 100%;">
-  <colgroup>
-    <col style="width: 50%;" />
-    <col style="width: 50%;" />
-  </colgroup>
+<table width="100%">
   <tr>
-    <td align="center" valign="top" style="padding: 15px 10px; border: none;">
+    <td width="50%" align="center" valign="top">
       <h4 style="color: #e63946;">💻 Programming Languages</h4>
       <div style="line-height: 2.5;">
         <img src="https://skillicons.dev/icons?i=python" width="45" height="45" />
@@ -64,7 +60,7 @@
         <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" />
       </div>
     </td>
-    <td align="center" valign="top" style="padding: 15px 10px; border: none;">
+    <td width="50%" align="center" valign="top">
       <h4 style="color: #e63946;">🛠️ Software Tools</h4>
       <div style="line-height: 2.5;">
         <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" />
