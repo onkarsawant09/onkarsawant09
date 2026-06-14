@@ -1,3 +1,11 @@
+<!-- FULL WIDTH BANNER - REPLACE THE IMAGE URL WITH YOUR OWN -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,100:d76d77&height=200&section=header&text=Tiger%20-%20Code.%20Build.%20Improve.&fontSize=50&fontColor=fff&animation=fadeIn" width="100%" alt="banner"/>
+</div>
+
+<!-- OR use a static image banner (uncomment below and replace URL) -->
+<!-- <img src="https://your-banner-image-url.jpg" width="100%" alt="banner"> -->
+
 [![MasterHead](https://i.pinimg.com/originals/f5/88/f2/f588f2cb596083e0d8e6c5f0c86319bd.gif)](https://onkarsawant09.io)
 
 <h1 align="center">Hi 👋, I'm tiger</h1>
@@ -101,8 +109,7 @@
 
 ---
 
-## 📱 Recent Activity (Powered by GitHub)
-<!-- This section automatically updates if you use github-readme-activity-graph or similar. Keeping it static for now -->
+## 📱 Recent Activity
 <p align="center">
   <i>⚡ Check out my pinned repos below to see what I'm up to!</i>
 </p>
