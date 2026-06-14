@@ -1,3 +1,8 @@
+<!--- TOP BANNER IMAGE --->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/banner2.gif" alt="banner" width="100%" />
+</p>
+
 <!--- ANIMATED TYPING HEADER --->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tiger;Code.+Build.+Improve.;Full‑Stack+Developer;PHP+%7C+Java+%7C+Python;Problem+Solver" alt="Typing SVG" />
@@ -74,7 +79,7 @@
   </tr>
 </table>
 
-<!--- 🌨️ AMBIENT EFFECT: SNOW (Animated SVG, no external scripts) --->
+<!--- 🌨️ AMBIENT EFFECT: SNOW --->
 <div align="center">
   <svg width="300" height="60" viewBox="0 0 300 60" xmlns="http://www.w3.org/2000/svg">
     <circle cx="20" cy="10" r="2" fill="white">
@@ -159,7 +164,7 @@
       <br/>
       <i>🔥 Currently coding to: Lo-Fi Beats | Chillhop Radio</i>
     </td>
-  <tr>
+  </tr>
 </table>
 
 <!--- SOCIALS & SUPPORT --->
