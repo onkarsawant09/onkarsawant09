@@ -46,7 +46,7 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" align="left" valign="top">
       <h4 style="color: #e63946;">💻 Programming Languages</h4>
       <div style="line-height: 2.5;">
         <img src="https://skillicons.dev/icons?i=python" width="45" height="45" />
@@ -60,7 +60,7 @@
         <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" />
       </div>
     </td>
-    <td width="500%" align="center" valign="top">
+    <td width="50%" align="right" valign="top">
       <h4 style="color: #e63946;">🛠️ Software Tools</h4>
       <div style="line-height: 2.5;">
         <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" />
