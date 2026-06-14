@@ -74,7 +74,7 @@
   </tr>
 </table>
 
-<!--- HACKER-STYLE TERMINAL ANIMATION (Aesthetic & Pro) --->
+<!--- HACKER-STYLE TERMINAL ANIMATION --->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=➜+~+whoami;tiger+—+full-stack+developer;➜+~+cat+skills.txt;PHP+•+Java+•+Python+•+MySQL;➜+~+git+commit+-m+%22always+learning%22;➜+~+sudo+./build+--release" alt="Hacker Terminal" />
 </p>
@@ -136,6 +136,12 @@
   <a href="https://topcoder.com/members/410509"><img src="https://img.shields.io/badge/TopCoder-29A7E1?style=for-the-badge&logo=topcoder&logoColor=white" /></a>
   <a href="https://open.spotify.com/user/31ldrrykp2abn27oyf45wc2tmgsa"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a>
   <a href="https://buymeacoffee.com/vh6cy267vhg"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+</p>
+
+<!--- STREAK STATS (NEW SECTION) --->
+<h3 align="center">🔥 GitHub Streak Stats</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=onkarsawant09&theme=radical&hide_border=true&background=0D1117&stroke=e63946&ring=e63946&fire=e63946&currStreakLabel=e63946" alt="GitHub Streak" />
 </p>
 
 <!--- FOOTER --->
