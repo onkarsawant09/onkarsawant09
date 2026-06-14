@@ -1,28 +1,33 @@
-<!--- ANIMATED TYPING HEADER (SVG) --->
+<!--- ANIMATED TYPING HEADER (WORKING URL) --->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=E63946&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tiger;Code.+Build.+Improve.;Full‑Stack+Developer;PHP+%7C+Java+%7C+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tiger;Code.+Build.+Improve.;Full‑Stack+Developer;PHP+%7C+Java+%7C+Python;Problem+Solver" alt="Typing SVG" />
 </p>
 
-<!--- PROFILE VIEWS + LIVE METRICS (shields.io) --->
+<!--- ALTERNATIVE: If Typing SVG still fails, uncomment this static banner:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=60&section=header&text=Tiger%20%7C%20Code.%20Build.%20Improve.&fontSize=30&fontColor=e63946&animation=fadeIn" width="100%" />
+</p>
+--->
+
+<!--- PROFILE VIEWS + LIVE METRICS --->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=onkarsawant09&label=✨%20PROFILE%20VIEWS&color=e63946&style=flat-square" alt="views" />
 </p>
 
 <p align="center">
-  <!--- GitHub LIVE stats (dynamic) --->
   <img src="https://img.shields.io/github/followers/onkarsawant09?logo=github&style=for-the-badge&color=0D1117&labelColor=e63946&label=FOLLOWERS" />
   <img src="https://img.shields.io/github/stars/onkarsawant09?logo=star&style=for-the-badge&color=0D1117&labelColor=e63946&label=STARS" />
   <img src="https://img.shields.io/github/last-commit/onkarsawant09/onkarsawant09?logo=git&style=for-the-badge&color=0D1117&labelColor=e63946&label=LAST%20COMMIT" />
 </p>
 
-<!--- INTRO + CODING GIF (2‑column table, perfect alignment) --->
+<!--- INTRO + CODING GIF (perfect alignment) --->
 <table width="100%">
   <tr>
     <td width="55%" valign="top">
       <h3>👨‍💻 About me</h3>
       <ul>
         <li>🌱 <b>Currently mastering:</b> Full Stack Development (MERN, PHP, MySQL)</li>
-        <li>💬 <b>Ask me anything:</b> PHP, Java, Python, Android, Pandas</li>
+        <li>💬 <b>Ask me about:</b> PHP, Java, Python, Android, Pandas</li>
         <li>📫 <b>How to reach me:</b> <code>tigranomkar09@gmail.com</code></li>
         <li>📄 <b>Resume:</b> <a href="in/onkar-sawant-20264a396">LinkedIn</a> | <a href="https://onkarsawant09.io">Portfolio</a></li>
         <li>⚡ <b>Fun fact:</b> I debug with print() and I'm not ashamed.</li>
@@ -34,7 +39,7 @@
   </tr>
 </table>
 
-<!--- STATS ROW (3 cards: commits, PRs, issues) - advanced metrics --->
+<!--- STATS ROW (3 cards) --->
 <h3 align="center">📊 GitHub Analytics (live)</h3>
 
 <table align="center">
@@ -67,13 +72,13 @@
   </tr>
 </table>
 
-<!--- CONTRIBUTION ACTIVITY GRAPH (full width, dark themed) --->
+<!--- CONTRIBUTION ACTIVITY GRAPH --->
 <h3 align="center">📈 Contribution Landscape</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=onkarsawant09&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=e63946&line=e63946&point=ffffff&radius=8" width="95%" />
 </p>
 
-<!--- SNAKE GAME (contributions eating snake - very pro) --->
+<!--- SNAKE GAME (optional, requires action) --->
 <h3 align="center">🐍 Snake eating my contributions</h3>
 <p align="center">
   <picture>
@@ -81,10 +86,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onkarsawant09/onkarsawant09/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/onkarsawant09/onkarsawant09/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
-  <br/><i>Automatic daily refresh — requires a GitHub Action (see repo).</i>
+  <br/><i>✨ Requires a GitHub Action — see <a href="https://github.com/Platane/snk">platane/snk</a></i>
 </p>
 
-<!--- TECH STACK (4 columns with icons) --->
+<!--- TECH STACK (4 columns) --->
 <h3 align="center">⚡ Tech Arsenal</h3>
 
 <table align="center">
@@ -122,7 +127,7 @@
   </tr>
 </table>
 
-<!--- SOCIALS & SUPPORT (clean row) --->
+<!--- SOCIALS & SUPPORT --->
 <h3 align="center">🌐 Connect & support</h3>
 <p align="center">
   <a href="https://linkedin.com/in/onkar-sawant-20264a396"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -131,7 +136,7 @@
   <a href="https://buymeacoffee.com/vh6cy267vhg"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 </p>
 
-<!--- FOOTER with custom wave --->
+<!--- FOOTER --->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer" width="100%" />
   <p><i>“First, solve the problem. Then, write the code.” – John Johnson</i></p>
