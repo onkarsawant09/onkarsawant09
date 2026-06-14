@@ -47,7 +47,7 @@
 <table width="100%" style="border: none; table-layout: fixed;">
   <colgroup>
     <col style="width: 50%;" />
-    <col style="width: 180%;" />
+    <col style="width: 50%;" />
   </colgroup>
   <tr>
     <td align="center" valign="top" style="padding: 15px 10px; border: none;">
@@ -72,8 +72,6 @@
         <img src="https://skillicons.dev/icons?i=idea" width="45" height="45" />
         <img src="https://skillicons.dev/icons?i=git" width="45" height="45" />
         <img src="https://skillicons.dev/icons?i=github" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=codeblocks" width="45" height="45" title="Dev C++" />
-        <img src="https://skillicons.dev/icons?i=pandas" width="45" height="45" />
       </div>
     </td>
   </tr>
