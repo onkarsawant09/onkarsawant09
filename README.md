@@ -29,8 +29,8 @@
     </td>
     <td width="45%" align="right" valign="middle">
       <img alt="coding" width="280" src="https://camo.githubusercontent.com/4c0f605c23d2e3850116a15d828e556b1f48358cbbc6b382283fb790fa6cb307/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e676966">
-     </td>
-   </tr>
+    </td>
+  </tr>
 </table>
 
 <!--- STATS ROW --->
@@ -40,16 +40,16 @@
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=onkarsawant09&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=e63946&title_color=e63946&include_all_commits=true" width="100%" />
-     </td>
+    </td>
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=onkarsawant09&theme=radical&hide_border=true&background=0D1117&stroke=e63946&ring=e63946&fire=e63946&currStreakLabel=e63946" width="100%" />
-     </td>
-   </tr>
+    </td>
+  </tr>
   <tr>
     <td colspan="2" align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onkarsawant09&theme=radical" width="100%" />
-     </td>
-   </tr>
+    </td>
+  </tr>
 </table>
 
 <!--- TROPHIES + TOP LANGUAGES --->
@@ -58,12 +58,12 @@
     <td width="50%" align="center">
       <h3>🏆 Achievements</h3>
       <img src="https://github-profile-trophy.vercel.app/?username=onkarsawant09&theme=radical&no-frame=true&row=2&column=2&margin-w=10&margin-h=10" />
-     </td>
+    </td>
     <td width="50%" align="center">
       <h3>📚 Top Languages</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkarsawant09&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=e63946" width="90%" />
-     </td>
-   </tr>
+    </td>
+  </tr>
 </table>
 
 <!--- CONTRIBUTION ACTIVITY GRAPH --->
@@ -83,7 +83,7 @@
   <br/><i>✨ Requires a GitHub Action — see <a href="https://github.com/Platane/snk">platane/snk</a></i>
 </p>
 
-<!--- TECH ARSENAL - CATEGORIZED (Languages, IDEs/Tools, Databases) --->
+<!--- TECH ARSENAL - CATEGORIZED --->
 <h3 align="center">⚡ Tech Arsenal</h3>
 
 <h4 align="center">💻 Programming Languages</h4>
@@ -115,18 +115,24 @@
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<!--- RANDOM QUOTE + SPOTIFY --->
+<!--- RANDOM QUOTE + NOW PLAYING (FIXED: no broken image) --->
 <h3 align="center">🎧 Dev inspiration & vibes</h3>
 <table width="100%">
   <tr>
     <td width="50%" align="center">
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="90%" />
-     </td>
+    </td>
     <td width="50%" align="center">
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=31sk2kqnvwlsbvfp7p6pzmiqke2i&cover_image=true&theme=default&bar_color=e63946&bar_color_cover=false" width="90%" />
-      <br/><i>🔥 Currently coding to: Lo-Fi Beats</i>
-     </td>
-   </tr>
+      <p align="center">
+        <img src="https://img.shields.io/badge/🔥_Currently_coding_to-Lo--Fi_Beats-e63946?style=for-the-badge&logo=spotify&logoColor=white" />
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Chillhop_Radio-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+        <br/>
+        <i>“Music that keeps the flow state alive”</i>
+      </p>
+    </td>
+  </tr>
 </table>
 
 <!--- SOCIALS & SUPPORT --->
