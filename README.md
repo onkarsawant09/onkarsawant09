@@ -35,23 +35,18 @@
         <li style="margin-bottom: 6px;">‣ <b style="color: #e63946;">Debugging superpower:</b> <code style="background: #2d2d2d; padding: 2px 6px; border-radius: 6px;">print()</code> <span style="color: #b0b3b8;">– simple, honest, effective.</span></li>
       </ul>
     </td>
-    <td width="700%" align="right" valign="middle" style="border: none;">
-      <img alt="coding" width="7000" src="https://camo.githubusercontent.com/4c0f605c23d2e3850116a15d828e556b1f48358cbbc6b382283fb790fa6cb307/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e676966">
+    <td width="35%" align="right" valign="middle" style="border: none;">
+      <img alt="coding" width="180" src="https://camo.githubusercontent.com/4c0f605c23d2e3850116a15d828e556b1f48358cbbc6b382283fb790fa6cb307/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e676966">
     </td>
   </tr>
 </table>
 
-<!--- SKILLS (2 COLUMNS, ICON-BASED) --->
+<!--- SKILLS (2 COLUMNS, EQUAL WIDTH, CENTERED) --->
 <h3 align="center">⚡ Skills</h3>
-
-<table width="100%" style="border: none; table-layout:">
-  <colgroup>
-    <col style="width: 70%;" />
-    <col style="width: 30%;" />
-  </colgroup>
+<table width="100%" style="border: none;">
   <tr>
- <td align="center" valign="top" style="padding: 15px 10px; border: none;" width="50%">
-      <h4 style="color: #e63946;">💻   Programing Languages</h4>
+    <td width="50%" align="center" valign="top" style="padding: 15px; border: none;">
+      <h4 style="color: #e63946;">💻 Programming Languages</h4>
       <div style="line-height: 2.5;">
         <img src="https://skillicons.dev/icons?i=python" width="45" height="45" />
         <img src="https://skillicons.dev/icons?i=java" width="45" height="45" />
@@ -64,8 +59,8 @@
         <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" />
       </div>
     </td>
-     <td align="center" valign="top" style="padding: 15px 10px; border: none;" width="50%">
-      <h4 style="color: #e63946;">🛠️  Software Tools </h4>
+    <td width="50%" align="center" valign="top" style="padding: 15px; border: none;">
+      <h4 style="color: #e63946;">🛠️ Software Tools</h4>
       <div style="line-height: 2.5;">
         <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" />
         <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" />
@@ -148,7 +143,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=onkarsawant09&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=e63946&line=e63946&point=ffffff&radius=8" width="95%" />
 </p>
 
-<!--- RANDOM QUOTE + NOW PLAYING --->
+<!--- RANDOM QUOTE + NOW PLAYING (SAME ALIGNMENT AS SKILLS) --->
 <h3 align="center">🎧 Dev inspiration & vibes</h3>
 <table width="100%">
   <tr>
