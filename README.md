@@ -3,12 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tiger;Code.+Build.+Improve.;Full‑Stack+Developer;PHP+%7C+Java+%7C+Python;Problem+Solver" alt="Typing SVG" />
 </p>
 
-<!--- ALTERNATIVE: If Typing SVG still fails, uncomment this static banner:
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=60&section=header&text=Tiger%20%7C%20Code.%20Build.%20Improve.&fontSize=30&fontColor=e63946&animation=fadeIn" width="100%" />
-</p>
---->
-
 <!--- PROFILE VIEWS + LIVE METRICS --->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=onkarsawant09&label=✨%20PROFILE%20VIEWS&color=e63946&style=flat-square" alt="views" />
@@ -20,7 +14,7 @@
   <img src="https://img.shields.io/github/last-commit/onkarsawant09/onkarsawant09?logo=git&style=for-the-badge&color=0D1117&labelColor=e63946&label=LAST%20COMMIT" />
 </p>
 
-<!--- INTRO + CODING GIF (perfect alignment) --->
+<!--- INTRO + CODING GIF --->
 <table width="100%">
   <tr>
     <td width="55%" valign="top">
@@ -35,41 +29,41 @@
     </td>
     <td width="45%" align="right" valign="middle">
       <img alt="coding" width="280" src="https://camo.githubusercontent.com/4c0f605c23d2e3850116a15d828e556b1f48358cbbc6b382283fb790fa6cb307/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e676966">
-    </td>
-  </tr>
+     </td>
+   </tr>
 </table>
 
-<!--- STATS ROW (3 cards) --->
+<!--- STATS ROW --->
 <h3 align="center">📊 GitHub Analytics (live)</h3>
 
 <table align="center">
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=onkarsawant09&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=e63946&title_color=e63946&include_all_commits=true" width="100%" />
-    </td>
+     </td>
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=onkarsawant09&theme=radical&hide_border=true&background=0D1117&stroke=e63946&ring=e63946&fire=e63946&currStreakLabel=e63946" width="100%" />
-    </td>
-  </tr>
+     </td>
+   </tr>
   <tr>
     <td colspan="2" align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onkarsawant09&theme=radical" width="100%" />
-    </td>
-  </tr>
+     </td>
+   </tr>
 </table>
 
-<!--- TROPHIES + TOP LANGUAGES (side by side) --->
+<!--- TROPHIES + TOP LANGUAGES --->
 <table width="100%">
   <tr>
     <td width="50%" align="center">
       <h3>🏆 Achievements</h3>
       <img src="https://github-profile-trophy.vercel.app/?username=onkarsawant09&theme=radical&no-frame=true&row=2&column=2&margin-w=10&margin-h=10" />
-    </td>
+     </td>
     <td width="50%" align="center">
       <h3>📚 Top Languages</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkarsawant09&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=e63946" width="90%" />
-    </td>
-  </tr>
+     </td>
+   </tr>
 </table>
 
 <!--- CONTRIBUTION ACTIVITY GRAPH --->
@@ -78,7 +72,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=onkarsawant09&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=e63946&line=e63946&point=ffffff&radius=8" width="95%" />
 </p>
 
-<!--- SNAKE GAME (optional, requires action) --->
+<!--- SNAKE GAME (optional) --->
 <h3 align="center">🐍 Snake eating my contributions</h3>
 <p align="center">
   <picture>
@@ -89,42 +83,50 @@
   <br/><i>✨ Requires a GitHub Action — see <a href="https://github.com/Platane/snk">platane/snk</a></i>
 </p>
 
-<!--- TECH STACK (4 columns) --->
+<!--- TECH ARSENAL - CATEGORIZED (Languages, IDEs/Tools, Databases) --->
 <h3 align="center">⚡ Tech Arsenal</h3>
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><img src="https://skillicons.dev/icons?i=python" /><br/>Python</td>
-    <td align="center" width="25%"><img src="https://skillicons.dev/icons?i=java" /><br/>Java</td>
-    <td align="center" width="25%"><img src="https://skillicons.dev/icons?i=php" /><br/>PHP</td>
-    <td align="center" width="25%"><img src="https://skillicons.dev/icons?i=js" /><br/>JavaScript</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" /><br/>HTML5</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" /><br/>CSS3</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /><br/>MySQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=android" /><br/>Android</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=c" /><br/>C</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" /><br/>C++</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=pandas" /><br/>Pandas</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" /><br/>Git</td>
-  </tr>
-</table>
+<h4 align="center">💻 Programming Languages</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-<!--- RANDOM QUOTE + SPOTIFY (simulated) --->
+<h4 align="center">🛠️ IDEs & Development Tools</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dev-C%2B%2B-5C2D91?style=for-the-badge&logo=dev.to&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<h4 align="center">🗄️ Databases & Data Science</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<!--- RANDOM QUOTE + SPOTIFY --->
 <h3 align="center">🎧 Dev inspiration & vibes</h3>
 <table width="100%">
   <tr>
     <td width="50%" align="center">
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="90%" />
-    </td>
+     </td>
     <td width="50%" align="center">
       <img src="https://spotify-github-profile.vercel.app/api/view?uid=31sk2kqnvwlsbvfp7p6pzmiqke2i&cover_image=true&theme=default&bar_color=e63946&bar_color_cover=false" width="90%" />
       <br/><i>🔥 Currently coding to: Lo-Fi Beats</i>
-    </td>
-  </tr>
+     </td>
+   </tr>
 </table>
 
 <!--- SOCIALS & SUPPORT --->
