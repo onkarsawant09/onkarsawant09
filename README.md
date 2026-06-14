@@ -43,7 +43,7 @@
   <colgroup>
     <col style="width: 34%;" />
     <col style="width: 33%;" />
-    <col style="width: 33%;" />
+    <col style="width: 40%;" />
   </colgroup>
   <tr>
     <td align="center" valign="top" style="padding: 15px 10px; border: none;">
