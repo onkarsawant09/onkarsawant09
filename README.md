@@ -42,36 +42,22 @@
 </table>
 
 <!--- SKILLS (FULL WIDTH, SAME AS QUOTE TABLE) --->
-<h3 align="center">⚡ Skills</h3>
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h4 style="color: #e63946;">💻 Programming Languages</h4>
-      <div style="line-height: 2.5;">
-        <img src="https://skillicons.dev/icons?i=python" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=java" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=php" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=js" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=c" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=html" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=css" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" />
-      </div>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h4 style="color: #e63946;">🛠️ Software Tools</h4>
-      <div style="line-height: 2.5;">
-        <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=idea" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=git" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=github" width="45" height="45" />
-      </div>
-    </td>
-  </table>
-</table>
+### Languages and Tools:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
+</div>
 
 <!--- 🌨️ AMBIENT EFFECT: SNOW --->
 <div align="center">
