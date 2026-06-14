@@ -39,7 +39,7 @@
       <img alt="coding" width="100%" src="https://camo.githubusercontent.com/4c0f605c23d2e3850116a15d828e556b1f48358cbbc6b382283fb790fa6cb307/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e676966">
     </td>
   </tr>
-<table>
+</table>
 
 <!--- LANGUAGES AND TOOLS (centered, bigger icons) --->
 <h3 align="center">🛠️ Languages and Tools</h3>
@@ -106,19 +106,19 @@
   </tr>
 </table>
 
-<!--- SOCIALS & SUPPORT --->
+<!--- STREAK STATS --->
+<h3 align="center">🔥 GitHub Streak Stats</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=onkarsawant09&theme=radical&hide_border=true&background=0D1117&stroke=e63946&ring=e63946&fire=e63946&currStreakLabel=e63946" alt="GitHub Streak" />
+</p>
+
+<!--- SOCIALS & SUPPORT (moved to last) --->
 <h3 align="center">🌐 Connect & support</h3>
 <p align="center">
   <a href="https://linkedin.com/in/onkar-sawant-20264a396"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/tigranomkar_.09"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://open.spotify.com/user/31ldrrykp2abn27oyf45wc2tmgsa"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a>
   <a href="https://buymeacoffee.com/vh6cy267vhg"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
-</p>
-
-<!--- STREAK STATS --->
-<h3 align="center">🔥 GitHub Streak Stats</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=onkarsawant09&theme=radical&hide_border=true&background=0D1117&stroke=e63946&ring=e63946&fire=e63946&currStreakLabel=e63946" alt="GitHub Streak" />
 </p>
 
 <!--- FOOTER --->
