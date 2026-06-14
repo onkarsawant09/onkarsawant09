@@ -36,7 +36,7 @@
   </tr>
 </table>
 
-<!--- SKILLS (2 COLUMNS, ICON-BASED, DATA MERGED INTO TOOLS) --->
+<!--- SKILLS (2 COLUMNS, UPDATED AS REQUESTED) --->
 <h3 align="center">⚡ Skills</h3>
 
 <table width="100%" style="border: none; table-layout: fixed;">
@@ -56,6 +56,7 @@
         <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" />
         <img src="https://skillicons.dev/icons?i=html" width="45" height="45" />
         <img src="https://skillicons.dev/icons?i=css" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" />
       </div>
     </td>
     <td align="center" valign="top" style="padding: 15px 10px; border: none;">
@@ -67,9 +68,7 @@
         <img src="https://skillicons.dev/icons?i=git" width="45" height="45" />
         <img src="https://skillicons.dev/icons?i=github" width="45" height="45" />
         <img src="https://skillicons.dev/icons?i=codeblocks" width="45" height="45" title="Dev C++" />
-        <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" />
         <img src="https://skillicons.dev/icons?i=pandas" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=python" width="45" height="45" title="Seaborn" />
       </div>
     </td>
   </tr>
@@ -122,7 +121,7 @@
       <i>🔥 Currently coding to: Lo-Fi Beats | Chillhop Radio</i>
     </td>
   </tr>
-</table>
+<table>
 
 <!--- SOCIALS & SUPPORT --->
 <h3 align="center">🌐 Connect & support</h3>
