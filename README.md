@@ -14,10 +14,10 @@
   <img src="https://img.shields.io/github/last-commit/onkarsawant09/onkarsawant09?logo=git&style=for-the-badge&color=0D1117&labelColor=e63946&label=LAST%20COMMIT" />
 </p>
 
-<!--- INTRO + CODING GIF (AESTHETIC ABOUT ME) --->
+<!--- INTRO + CODING GIF (GIF REDUCED TO 200px) --->
 <table width="100%">
   <tr>
-    <td width="55%" valign="top">
+    <td width="60%" valign="top">
       <h3>⚡ About me</h3>
       <p><em>Self‑taught developer • clean code enthusiast • building for the web</em></p>
       <ul style="list-style-type: none; padding-left: 0;">
@@ -29,8 +29,8 @@
         <li>‣ <b>Debugging superpower:</b> <code>print()</code> – simple, honest, effective.</li>
       </ul>
     </td>
-    <td width="45%" align="right" valign="middle">
-      <img alt="coding" width="280" src="https://camo.githubusercontent.com/4c0f605c23d2e3850116a15d828e556b1f48358cbbc6b382283fb790fa6cb307/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e676966">
+    <td width="40%" align="right" valign="middle">
+      <img alt="coding" width="200" src="https://camo.githubusercontent.com/4c0f605c23d2e3850116a15d828e556b1f48358cbbc6b382283fb790fa6cb307/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e676966">
     </td>
   </tr>
 </table>
@@ -59,7 +59,8 @@
   <tr>
     <td width="50%" align="center">
       <h3>🏆 Achievements</h3>
-      <img src="https://github-profile-trophy.vercel.app/?username=onkarsawant09&theme=radical&no-frame=true&row=2&column=2&margin-w=10&margin-h=10" />
+      <img src="https://github-profile-trophy.vercel.app/?username=onkarsawant09&theme=radical&no-frame=true&row=2&column=2&margin-w=10&margin-h=10" alt="trophies" />
+      <br/><i>✨ Trophies are live – if they don't load, refresh or check GitHub API limits.</i>
     </td>
     <td width="50%" align="center">
       <h3>📚 Top Languages</h3>
@@ -74,7 +75,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=onkarsawant09&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=e63946&line=e63946&point=ffffff&radius=8" width="95%" />
 </p>
 
-<!--- SNAKE GAME (optional, requires action) --->
+<!-- SNAKE GAME - COMMENTED OUT UNTIL YOU SET UP THE GITHUB ACTION
 <h3 align="center">🐍 Snake eating my contributions</h3>
 <p align="center">
   <picture>
@@ -82,8 +83,9 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onkarsawant09/onkarsawant09/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/onkarsawant09/onkarsawant09/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
-  <br/><i>✨ Requires a GitHub Action — see <a href="https://github.com/Platane/snk">platane/snk</a></i>
+  <br/><i>✨ To enable, add the Platane/snk GitHub Action to your repo.</i>
 </p>
+-->
 
 <!--- TECH ARSENAL - CATEGORIZED --->
 <h3 align="center">⚡ Tech Arsenal</h3>
