@@ -36,43 +36,17 @@
   </tr>
 </table>
 
-<!--- STATS ROW --->
-<h3 align="center">📊 GitHub Analytics (live)</h3>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=onkarsawant09&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=e63946&title_color=e63946&include_all_commits=true" width="100%" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=onkarsawant09&theme=radical&hide_border=true&background=0D1117&stroke=e63946&ring=e63946&fire=e63946&currStreakLabel=e63946" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onkarsawant09&theme=radical" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<!--- TOP LANGUAGES --->
-<h3 align="center">📚 Top Languages</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkarsawant09&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=e63946" width="50%" />
-</div>
-
 <!--- CONTRIBUTION ACTIVITY GRAPH (LINE CHART) --->
 <h3 align="center">📈 Contribution Landscape</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=onkarsawant09&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=e63946&line=e63946&point=ffffff&radius=8" width="95%" />
 </p>
 
-<!--- LATEST BLOG POSTS (DYNAMIC, REPLACES CALENDAR) --->
+<!--- LATEST BLOG POSTS (DYNAMIC) --->
 <h3 align="center">📝 Latest Blog Posts</h3>
 <div align="center">
   <!-- BLOG-POST-LIST:START -->
   <!-- This list will auto-update when you set up the GitHub Action -->
-  <!-- Check the instructions below to enable it -->
   <!-- BLOG-POST-LIST:END -->
   <p><i>✨ Sharing what I learn – articles about code, dev tools, and life as a programmer.</i></p>
 </div>
@@ -140,7 +114,7 @@
       <br/>
       <i>🔥 Currently coding to: Lo-Fi Beats | Chillhop Radio</i>
     </td>
-  </tr>
+  <tr>
 </table>
 
 <!--- SOCIALS & SUPPORT --->
