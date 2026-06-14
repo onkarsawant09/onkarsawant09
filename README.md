@@ -44,9 +44,9 @@
 <!--- SKILLS (2 COLUMNS, ICON-BASED) --->
 <h3 align="center">⚡ Skills</h3>
 
-<table width="200%" style="border: none; table-layout: fixed;">
+<table width="100%" style="border: none; table-layout:">
   <colgroup>
-    <col style="width: 170%;" />
+    <col style="width: 70%;" />
     <col style="width: 30%;" />
   </colgroup>
   <tr>
