@@ -50,7 +50,7 @@
     <col style="width: 30%;" />
   </colgroup>
   <tr>
-         <td align="center" valign="top" style="padding: 15px 10px; border: none;">
+          <td width="50%" align="right" valign="top" style="border: none;">
       <h4 style="color: #e63946;">💻   Programing Languages</h4>
       <div style="line-height: 2.5;">
         <img src="https://skillicons.dev/icons?i=python" width="45" height="45" />
