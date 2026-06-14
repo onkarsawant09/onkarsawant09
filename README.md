@@ -14,19 +14,19 @@
   <img src="https://img.shields.io/github/last-commit/onkarsawant09/onkarsawant09?logo=git&style=for-the-badge&color=0D1117&labelColor=e63946&label=LAST%20COMMIT" />
 </p>
 
-<!--- INTRO + CODING GIF (IMPROVED ABOUT ME) --->
+<!--- INTRO + CODING GIF (AESTHETIC ABOUT ME) --->
 <table width="100%">
   <tr>
     <td width="55%" valign="top">
-      <h3>👨‍💻 About me</h3>
-      <p><em>Self‑taught developer who turns caffeine into clean code. Passionate about building things that live on the web.</em></p>
-      <ul>
-        <li>🔭 <b>Currently building:</b> Full‑stack applications with <b>PHP, MySQL & JavaScript</b></li>
-        <li>🌱 <b>Leveling up:</b> Advanced <b>React.js, Node.js & system design</b></li>
-        <li>💬 <b>Ask me anything about:</b> PHP, Java, Python, Android, Pandas – I love sharing knowledge</li>
-        <li>📫 <b>Best way to reach me:</b> <code>tigranomkar09@gmail.com</code></li>
-        <li>📄 <b>Experience & resume:</b> <a href="in/onkar-sawant-20264a396">LinkedIn</a> | <a href="https://onkarsawant09.io">Portfolio</a></li>
-        <li>⚡ <b>Fun fact:</b> My debugging superpower is <code>print()</code> – and it has never let me down.</li>
+      <h3>⚡ About me</h3>
+      <p><em>Self‑taught developer • clean code enthusiast • building for the web</em></p>
+      <ul style="list-style-type: none; padding-left: 0;">
+        <li>‣ <b>Currently building:</b> Full‑stack apps with <b>PHP, MySQL & JavaScript</b></li>
+        <li>‣ <b>Leveling up:</b> Advanced <b>React.js, Node.js & system design</b></li>
+        <li>‣ <b>Ask me about:</b> PHP, Java, Python, Android, Pandas – always happy to help</li>
+        <li>‣ <b>Reach me:</b> <code>tigranomkar09@gmail.com</code></li>
+        <li>‣ <b>Experience:</b> <a href="in/onkar-sawant-20264a396">LinkedIn</a> | <a href="https://onkarsawant09.io">Portfolio</a></li>
+        <li>‣ <b>Debugging superpower:</b> <code>print()</code> – simple, honest, effective.</li>
       </ul>
     </td>
     <td width="45%" align="right" valign="middle">
