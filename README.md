@@ -17,7 +17,7 @@
 <!--- ABOUT ME (BORDERLESS TABLE, GIF ON RIGHT) --->
 <table width="100%" cellpadding="0" cellspacing="0" style="border: none;">
   <tr>
-    <td width="65%" valign="top" style="border: none;">
+    <td width="100%" valign="top" style="border: none;">
       <h3>⚡ About me</h3>
       <p><em>Self‑taught developer • clean code enthusiast • building for the web</em></p>
       <ul style="list-style-type: none; padding-left: 0; margin: 0;">
