@@ -36,40 +36,8 @@
   </tr>
 </table>
 
-<!--- CONTRIBUTION ACTIVITY GRAPH --->
-<h3 align="center">📈 Contribution Landscape</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=onkarsawant09&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=e63946&line=e63946&point=ffffff&radius=8" width="95%" />
-</p>
-
-<!--- LATEST BLOG POSTS (DYNAMIC) --->
-<h3 align="center">📝 Latest Blog Posts</h3>
-<div align="center">
-  <!-- BLOG-POST-LIST:START -->
-  <!-- This list will auto-update when you set up the GitHub Action -->
-  <!-- BLOG-POST-LIST:END -->
-  <p><i>✨ Sharing what I learn – articles about code, dev tools, and life as a programmer.</i></p>
-</div>
-
-<!--- GAME SECTION (UNIQUE, NO SNAKE) --->
-<h3 align="center">🎮 Play a quick coding game</h3>
-<p align="center">
-  <a href="https://play2048.co/">
-    <img src="https://img.shields.io/badge/🎲%20Play%202048%20(Coding%20Edition)-EA4335?style=for-the-badge&logo=game&logoColor=white" />
-  </a>
-  <a href="https://humanbenchmark.com/tests/typing">
-    <img src="https://img.shields.io/badge/⌨️%20Typing%20Test%20for%20Devs-3776AB?style=for-the-badge&logo=keyboard&logoColor=white" />
-  </a>
-  <a href="https://codinggame.github.io/">
-    <img src="https://img.shields.io/badge/🚀%20Code%20Clicker%20(Incremental)-FFD700?style=for-the-badge&logo=code&logoColor=black" />
-  </a>
-</p>
-<p align="center">
-  <i>✨ Challenge yourself – best scores? Try beating my high!</i>
-</p>
-
-<!--- TECH ARSENAL - CATEGORIZED --->
-<h3 align="center">⚡ Tech Arsenal</h3>
+<!--- SKILLS (formerly Tech Arsenal, moved up) --->
+<h3 align="center">⚡ Skills</h3>
 
 <h4 align="center">💻 Programming Languages</h4>
 <p align="center">
@@ -100,6 +68,38 @@
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
+<!--- LATEST BLOG POSTS --->
+<h3 align="center">📝 Latest Blog Posts</h3>
+<div align="center">
+  <!-- BLOG-POST-LIST:START -->
+  <!-- This list will auto-update when you set up the GitHub Action -->
+  <!-- BLOG-POST-LIST:END -->
+  <p><i>✨ Sharing what I learn – articles about code, dev tools, and life as a programmer.</i></p>
+</div>
+
+<!--- GAME SECTION --->
+<h3 align="center">🎮 Play a quick coding game</h3>
+<p align="center">
+  <a href="https://play2048.co/">
+    <img src="https://img.shields.io/badge/🎲%20Play%202048%20(Coding%20Edition)-EA4335?style=for-the-badge&logo=game&logoColor=white" />
+  </a>
+  <a href="https://humanbenchmark.com/tests/typing">
+    <img src="https://img.shields.io/badge/⌨️%20Typing%20Test%20for%20Devs-3776AB?style=for-the-badge&logo=keyboard&logoColor=white" />
+  </a>
+  <a href="https://codinggame.github.io/">
+    <img src="https://img.shields.io/badge/🚀%20Code%20Clicker%20(Incremental)-FFD700?style=for-the-badge&logo=code&logoColor=black" />
+  </a>
+</p>
+<p align="center">
+  <i>✨ Challenge yourself – best scores? Try beating my high!</i>
+</p>
+
+<!--- CONTRIBUTION LANDSCAPE (moved down) --->
+<h3 align="center">📈 Contribution Landscape</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=onkarsawant09&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=e63946&line=e63946&point=ffffff&radius=8" width="95%" />
+</p>
+
 <!--- RANDOM QUOTE + NOW PLAYING --->
 <h3 align="center">🎧 Dev inspiration & vibes</h3>
 <table width="100%">
@@ -115,7 +115,7 @@
       <i>🔥 Currently coding to: Lo-Fi Beats | Chillhop Radio</i>
     </td>
   </tr>
-<tr>
+</table>
 
 <!--- SOCIALS & SUPPORT --->
 <h3 align="center">🌐 Connect & support</h3>
