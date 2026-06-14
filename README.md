@@ -36,40 +36,32 @@
   </tr>
 </table>
 
-<!--- SKILLS (2 COLUMNS, UPDATED AS REQUESTED) --->
+<!--- SKILLS (NEW TEXT-BASED LAYOUT) --->
 <h3 align="center">⚡ Skills</h3>
 
-<table width="100%" style="border: none; table-layout: fixed;">
-  <colgroup>
-    <col style="width: 50%;" />
-    <col style="width: 50%;" />
-  </colgroup>
-  <tr>
-    <td align="center" valign="top" style="padding: 15px 10px; border: none;">
-      <h4 style="color: #e63946;">💻 Languages</h4>
-      <div style="line-height: 2.5;">
-        <img src="https://skillicons.dev/icons?i=python" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=java" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=php" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=js" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=c" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=html" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=css" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" />
-      </div>
-    </td>
-    <td align="center" valign="top" style="padding: 15px 10px; border: none;">
-      <h4 style="color: #e63946;">🛠️ Tools & Data</h4>
-      <div style="line-height: 2.5;">
-        <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=idea" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=git" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=github" width="45" height="45" />
-    
-  </tr>
-</table>
+<div align="center">
+  <table width="80%" style="border: none; text-align: left;">
+    <tr>
+      <td valign="top" style="border: none; padding: 10px;">
+        <h4 style="color: #e63946;">💻 Programming Languages</h4>
+        <p><b>🐍 Python</b> – Scripting, Data Analysis (Pandas)</p>
+        <p><b>☕ Java</b> – Core Java, OOP, Multithreading</p>
+        <p><b>🐘 PHP</b> – Server‑side scripting, Web apps</p>
+        <p><b>📜 JavaScript</b> – ES6, DOM manipulation, Async</p>
+        <p><b>⚙️ C / C++</b> – Algorithms, Data structures, System programming</p>
+        <p><b>🌐 HTML5 & CSS3</b> – Semantic markup, Flexbox, Grid</p>
+      </td>
+      <td valign="top" style="border: none; padding: 10px;">
+        <h4 style="color: #e63946;">🗄️ Databases & Tools</h4>
+        <p><b>MySQL</b> – Database design, Queries, Optimization</p>
+        <p><b>🛠️ IDEs</b> – VS Code, Android Studio, IntelliJ IDEA, Dev C++</p>
+        <p><b>📦 Version Control</b> – Git & GitHub (branches, PRs, actions)</p>
+        <p><b>🐼 Data Science</b> – Pandas, Seaborn (data manipulation & viz)</p>
+        <p><b>📱 Mobile</b> – Android (Java, XML layouts)</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!--- LATEST BLOG POSTS --->
 <h3 align="center">📝 Latest Blog Posts</h3>
@@ -118,7 +110,7 @@
       <i>🔥 Currently coding to: Lo-Fi Beats | Chillhop Radio</i>
     </td>
   </tr>
-<table>
+</table>
 
 <!--- SOCIALS & SUPPORT --->
 <h3 align="center">🌐 Connect & support</h3>
