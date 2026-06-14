@@ -48,7 +48,6 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <h4 style="color: #e63946;">💻 Programming Languages</h4>
-      <div style="line-height: 2.5;">
         <img src="https://skillicons.dev/icons?i=python" width="45" height="45" />
         <img src="https://skillicons.dev/icons?i=java" width="45" height="45" />
         <img src="https://skillicons.dev/icons?i=php" width="45" height="45" />
@@ -69,6 +68,20 @@
         <img src="https://skillicons.dev/icons?i=git" width="45" height="45" />
         <img src="https://skillicons.dev/icons?i=github" width="45" height="45" />
       </div>
+    </td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="90%" />
+    </td>
+    <td width="50%" align="center">
+      <a href="https://open.spotify.com/user/31ldrrykp2abn27oyf45wc2tmgsa" target="_blank">
+        <img src="https://img.shields.io/badge/🎵_Listen_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+      </a>
+      <br/>
+      <i>🔥 Currently coding to: Lo-Fi Beats | Chillhop Radio</i>
     </td>
   </tr>
 </table>
