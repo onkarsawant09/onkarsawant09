@@ -31,7 +31,7 @@
       <img alt="coding" width="280" src="https://camo.githubusercontent.com/4c0f605c23d2e3850116a15d828e556b1f48358cbbc6b382283fb790fa6cb307/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e676966">
     </td>
   </tr>
-</tr>
+</table>
 
 <!--- STATS ROW --->
 <h3 align="center">📊 GitHub Analytics (live)</h3>
@@ -115,7 +115,7 @@
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<!--- RANDOM QUOTE + SPOTIFY WIDGET (UPDATED) --->
+<!--- RANDOM QUOTE + NOW PLAYING (FIXED) --->
 <h3 align="center">🎧 Dev inspiration & vibes</h3>
 <table width="100%">
   <tr>
@@ -123,10 +123,11 @@
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="90%" />
     </td>
     <td width="50%" align="center">
-      <!-- LIVE SPOTIFY WIDGET - Shows what you're playing right now -->
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ldrrykp2abn27oyf45wc2tmgsa&cover_image=true&theme=default&border_radius=10&bar_color=e63946" alt="Spotify Now Playing" />
+      <a href="https://open.spotify.com/user/31ldrrykp2abn27oyf45wc2tmgsa" target="_blank">
+        <img src="https://img.shields.io/badge/🎵_Listen_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+      </a>
       <br/>
-      <i>🎵 Live from Spotify — updates with what I'm listening to</i>
+      <i>🔥 Currently coding to: Lo-Fi Beats | Chillhop Radio</i>
     </td>
   </tr>
 </table>
