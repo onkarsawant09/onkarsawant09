@@ -79,14 +79,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=➜+~+whoami;tiger+—+full-stack+developer;➜+~+cat+skills.txt;PHP+•+Java+•+Python+•+MySQL;➜+~+git+commit+-m+%22always+learning%22;➜+~+sudo+./build+--release" alt="Hacker Terminal" />
 </p>
 
-<!--- LATEST BLOG POSTS --->
-<h3 align="center">📝 Latest Blog Posts</h3>
-<div align="center">
-  <!-- BLOG-POST-LIST:START -->
-  <!-- This list will auto-update when you set up the GitHub Action -->
-  <!-- BLOG-POST-LIST:END -->
-  <p><i>✨ Sharing what I learn – articles about code, dev tools, and life as a programmer.</i></p>
-</div>
+
 
 <!--- GAME SECTION --->
 <h3 align="center">🎮 Play a quick coding game</h3>
