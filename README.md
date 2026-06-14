@@ -15,19 +15,19 @@
   <img src="https://img.shields.io/github/last-commit/onkarsawant09/onkarsawant09?logo=git&style=for-the-badge&color=0D1117&labelColor=e63946&label=LAST%20COMMIT" />
 </p>
 
-<!--- ABOUT ME (BORDERLESS TABLE, GIF ON RIGHT) --->
+<!--- ABOUT ME (BORDERLESS TABLE, STYLED) --->
 <table width="100%" cellpadding="0" cellspacing="0" style="border: none;">
   <tr>
     <td width="65%" valign="top" style="border: none;">
-      <h3>⚡ About me</h3>
-      <p><em>Self‑taught developer • clean code enthusiast • building for the web</em></p>
-      <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-        <li>‣ <b>Currently building:</b> Full‑stack apps with PHP, MySQL & JavaScript</li>
-        <li>‣ <b>Leveling up:</b> Advanced React.js, Node.js & system design</li>
-        <li>‣ <b>Ask me about:</b> PHP, Java, Python, Android, Pandas</li>
-        <li>‣ <b>Reach me:</b> <code>tigranomkar09@gmail.com</code></li>
-        <li>‣ <b>Experience:</b> <a href="in/onkar-sawant-20264a396">LinkedIn</a> | <a href="https://onkarsawant09.io">Portfolio</a></li>
-        <li>‣ <b>Debugging superpower:</b> <code>print()</code> – simple, honest, effective.</li>
+      <h3 style="color: #e63946; font-weight: 700; letter-spacing: 0.5px;">⚡ About me</h3>
+      <p style="font-size: 1.05em; font-style: italic; color: #b0b3b8;">Self‑taught developer • clean code enthusiast • building for the web</p>
+      <ul style="list-style-type: none; padding-left: 0; margin: 0; line-height: 1.6;">
+        <li style="margin-bottom: 6px;">‣ <b style="color: #e63946;">Currently building:</b> <span style="color: #e0e0e0;">Full‑stack apps with PHP, MySQL & JavaScript</span></li>
+        <li style="margin-bottom: 6px;">‣ <b style="color: #e63946;">Leveling up:</b> <span style="color: #e0e0e0;">Advanced React.js, Node.js & system design</span></li>
+        <li style="margin-bottom: 6px;">‣ <b style="color: #e63946;">Ask me about:</b> <span style="color: #e0e0e0;">PHP, Java, Python, Android, Pandas</span></li>
+        <li style="margin-bottom: 6px;">‣ <b style="color: #e63946;">Reach me:</b> <code style="background: #2d2d2d; padding: 2px 6px; border-radius: 6px;">tigranomkar09@gmail.com</code></li>
+        <li style="margin-bottom: 6px;">‣ <b style="color: #e63946;">Experience:</b> <a href="in/onkar-sawant-20264a396" style="color: #e63946; text-decoration: none;">LinkedIn</a> <span style="color: #555;">|</span> <a href="https://onkarsawant09.io" style="color: #e63946; text-decoration: none;">Portfolio</a></li>
+        <li style="margin-bottom: 6px;">‣ <b style="color: #e63946;">Debugging superpower:</b> <code style="background: #2d2d2d; padding: 2px 6px; border-radius: 6px;">print()</code> <span style="color: #b0b3b8;">– simple, honest, effective.</span></li>
       </ul>
     </td>
     <td width="35%" align="right" valign="middle" style="border: none;">
@@ -36,7 +36,7 @@
   </tr>
 </table>
 
-<!--- CONTRIBUTION ACTIVITY GRAPH (LINE CHART) --->
+<!--- CONTRIBUTION ACTIVITY GRAPH --->
 <h3 align="center">📈 Contribution Landscape</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=onkarsawant09&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=e63946&line=e63946&point=ffffff&radius=8" width="95%" />
@@ -114,8 +114,8 @@
       <br/>
       <i>🔥 Currently coding to: Lo-Fi Beats | Chillhop Radio</i>
     </td>
-  <tr>
-</table>
+  </tr>
+<tr>
 
 <!--- SOCIALS & SUPPORT --->
 <h3 align="center">🌐 Connect & support</h3>
