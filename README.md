@@ -67,8 +67,7 @@
         <img src="https://skillicons.dev/icons?i=idea" width="45" height="45" />
         <img src="https://skillicons.dev/icons?i=git" width="45" height="45" />
         <img src="https://skillicons.dev/icons?i=github" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=codeblocks" width="45" height="45" title="Dev C++" />
-        <img src="https://skillicons.dev/icons?i=pandas" width="45" height="45" />
+       
       </div>
     </td>
   </tr>
