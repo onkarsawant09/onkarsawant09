@@ -40,7 +40,7 @@
     </td>
   </tr>
 </table>
-<center>
+
 <!--- SKILLS (2 COLUMNS, ICON-BASED) --->
 <h3 align="center">⚡ Skills</h3>
 
@@ -51,7 +51,7 @@
   </colgroup>
   <tr>
     <td align="center" valign="top" style="padding: 15px 10px; border: none;">
-      <h4 style="color: #e63946;">💻 Languages</h4>
+      <h4 style="color: #e63946;">💻   Programing Languages</h4>
       <div style="line-height: 2.5;">
         <img src="https://skillicons.dev/icons?i=python" width="45" height="45" />
         <img src="https://skillicons.dev/icons?i=java" width="45" height="45" />
@@ -65,7 +65,7 @@
       </div>
     </td>
     <td align="center" valign="top" style="padding:15px 10px; border: none;">
-      <h4 style="color: #e63946;">🛠️ Tools & Data</h4>
+      <h4 style="color: #e63946;">🛠️  Software Tools </h4>
       <div style="line-height: 2.5;">
         <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" />
         <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" />
@@ -76,7 +76,7 @@
     </td>
   </tr>
 </table>
-</center>
+
 <!--- 🌨️ AMBIENT EFFECT: SNOW --->
 <div align="center">
   <svg width="300" height="60" viewBox="0 0 300 60" xmlns="http://www.w3.org/2000/svg">
