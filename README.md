@@ -36,7 +36,7 @@
   </tr>
 </table>
 
-<!--- SKILLS (WIDER TABLE, MORE SPACING) --->
+<!--- SKILLS (ICON-BASED, WIDER TABLE) --->
 <h3 align="center">⚡ Skills</h3>
 
 <table width="100%" style="border: none; table-layout: fixed;">
@@ -48,34 +48,36 @@
   <tr>
     <td align="center" valign="top" style="padding: 15px 10px; border: none;">
       <h4 style="color: #e63946;">💻 Languages</h4>
-      <div style="line-height: 2.2;">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/>
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <div style="line-height: 2.5;">
+        <img src="https://skillicons.dev/icons?i=python" width="45" height="45" /><br/>
+        <img src="https://skillicons.dev/icons?i=java" width="45" height="45" /><br/>
+        <img src="https://skillicons.dev/icons?i=php" width="45" height="45" /><br/>
+        <img src="https://skillicons.dev/icons?i=js" width="45" height="45" /><br/>
+        <img src="https://skillicons.dev/icons?i=c" width="45" height="45" /><br/>
+        <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" /><br/>
+        <img src="https://skillicons.dev/icons?i=html" width="45" height="45" /><br/>
+        <img src="https://skillicons.dev/icons?i=css" width="45" height="45" />
       </div>
     </td>
     <td align="center" valign="top" style="padding: 15px 10px; border: none;">
       <h4 style="color: #e63946;">🛠️ Tools</h4>
-      <div style="line-height: 2.2;">
-        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Dev-C%2B%2B-5C2D91?style=for-the-badge&logo=dev.to&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <div style="line-height: 2.5;">
+        <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" /><br/>
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" /><br/>
+        <img src="https://skillicons.dev/icons?i=idea" width="45" height="45" /><br/>
+        <img src="https://skillicons.dev/icons?i=git" width="45" height="45" /><br/>
+        <img src="https://skillicons.dev/icons?i=github" width="45" height="45" /><br/>
+        <!-- Dev C++ doesn't have an official icon, using codeblocks as fallback -->
+        <img src="https://skillicons.dev/icons?i=codeblocks" width="45" height="45" title="Dev C++" />
       </div>
     </td>
     <td align="center" valign="top" style="padding: 15px 10px; border: none;">
       <h4 style="color: #e63946;">🗄️ Data</h4>
-      <div style="line-height: 2.2;">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <div style="line-height: 2.5;">
+        <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" /><br/>
+        <img src="https://skillicons.dev/icons?i=pandas" width="45" height="45" /><br/>
+        <!-- Seaborn uses python icon as fallback -->
+        <img src="https://skillicons.dev/icons?i=python" width="45" height="45" title="Seaborn" />
       </div>
     </td>
   </tr>
