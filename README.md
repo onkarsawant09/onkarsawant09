@@ -3,19 +3,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tiger;Code.+Build.+Improve.;Full‑Stack+Developer;PHP+%7C+Java+%7C+Python;Problem+Solver" alt="Typing SVG" />
 </p>
 
-<!--- PROFILE VIEWS (CENTERED, PERFECT PLACEMENT) --->
+<!--- PROFILE VIEWS (CENTERED) --->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=onkarsawant09&label=✨%20PROFILE%20VIEWS&color=e63946&style=flat-square" alt="views" />
 </p>
 
-<!--- LIVE METRICS (FOLLOWERS, STARS, LAST COMMIT) --->
+<!--- LIVE METRICS --->
 <p align="center">
   <img src="https://img.shields.io/github/followers/onkarsawant09?logo=github&style=for-the-badge&color=0D1117&labelColor=e63946&label=FOLLOWERS" />
   <img src="https://img.shields.io/github/stars/onkarsawant09?logo=star&style=for-the-badge&color=0D1117&labelColor=e63946&label=STARS" />
   <img src="https://img.shields.io/github/last-commit/onkarsawant09/onkarsawant09?logo=git&style=for-the-badge&color=0D1117&labelColor=e63946&label=LAST%20COMMIT" />
 </p>
 
-<!--- ABOUT ME (BORDERLESS TABLE, GIF ON RIGHT, FIXED WIDTH) --->
+<!--- ABOUT ME (BORDERLESS TABLE, GIF ON RIGHT) --->
 <table width="100%" cellpadding="0" cellspacing="0" style="border: none;">
   <tr>
     <td width="65%" valign="top" style="border: none;">
@@ -55,13 +55,13 @@
   </tr>
 </table>
 
-<!--- TROPHIES + TOP LANGUAGES --->
+<!--- TROPHIES + TOP LANGUAGES (TROPHY FIXED) --->
 <table width="100%">
   <tr>
     <td width="50%" align="center">
       <h3>🏆 Achievements</h3>
-      <img src="https://github-profile-trophy.vercel.app/?username=onkarsawant09&theme=radical&no-frame=true&row=2&column=2&margin-w=10&margin-h=10" alt="trophies" />
-      <br/><i>✨ Trophies are live – if they don't load, refresh or check GitHub API limits.</i>
+      <img src="https://github-profile-trophy.vercel.app/?username=onkarsawant09&theme=radical&no-frame=true&no-bg=true&row=2&column=2" alt="trophies" />
+      <br/><i>✨ Achievements load from the API – may take a second.</i>
     </td>
     <td width="50%" align="center">
       <h3>📚 Top Languages</h3>
@@ -134,7 +134,7 @@
       <br/>
       <i>🔥 Currently coding to: Lo-Fi Beats | Chillhop Radio</i>
     </td>
-  </table>
+  </tr>
 </table>
 
 <!--- SOCIALS & SUPPORT --->
