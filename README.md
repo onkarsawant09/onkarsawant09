@@ -61,17 +61,27 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkarsawant09&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=e63946" width="50%" />
 </div>
 
-<!--- CONTRIBUTION ACTIVITY GRAPH (REGULAR) --->
+<!--- CONTRIBUTION ACTIVITY GRAPH --->
 <h3 align="center">📈 Contribution Landscape</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=onkarsawant09&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=e63946&line=e63946&point=ffffff&radius=8" width="95%" />
 </p>
 
-<!--- UNIQUE 3D CONTRIBUTION CALENDAR (REPLACES SNAKE) --->
-<h3 align="center">🗿 3D Contribution Year</h3>
+<!--- UNIQUE GAME SECTION (NO SNAKE, ACTUALLY FUN) --->
+<h3 align="center">🎮 Play a quick coding game</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/onkarsawant09/onkarsawant09/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
-  <br/><i>✨ 3D view of my GitHub activity – auto‑updates daily</i>
+  <a href="https://play2048.co/">
+    <img src="https://img.shields.io/badge/🎲%20Play%202048%20(Coding%20Edition)-EA4335?style=for-the-badge&logo=game&logoColor=white" />
+  </a>
+  <a href="https://humanbenchmark.com/tests/typing">
+    <img src="https://img.shields.io/badge/⌨️%20Typing%20Test%20for%20Devs-3776AB?style=for-the-badge&logo=keyboard&logoColor=white" />
+  </a>
+  <a href="https://codinggame.github.io/">
+    <img src="https://img.shields.io/badge/🚀%20Code%20Clicker%20(Incremental)-FFD700?style=for-the-badge&logo=code&logoColor=black" />
+  </a>
+</p>
+<p align="center">
+  <i>✨ Challenge yourself – best scores? Try beating my high!</i>
 </p>
 
 <!--- TECH ARSENAL - CATEGORIZED --->
