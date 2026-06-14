@@ -41,36 +41,23 @@
   </tr>
 </table>
 
-<!--- NEW LANGUAGES AND TOOLS SECTION (exactly as requested) --->
-<h3 align="center">🛠️ Languages & Tools</h3>
-<table width="100%" style="border: none;">
-  <tr>
-    <td width="50%" align="center" valign="top" style="border: none;">
-      <h4 style="color: #e63946;">💻 Programming Languages</h4>
-      <div style="line-height: 2.5;">
-        <img src="https://skillicons.dev/icons?i=python" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=java" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=php" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=js" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=c" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=html" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=css" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" />
-      </div>
-    </td>
-    <td width="50%" align="center" valign="top" style="border: none;">
-      <h4 style="color: #e63946;">🛠️ Software Tools</h4>
-      <div style="line-height: 2.5;">
-        <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=idea" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=git" width="45" height="45" />
-        <img src="https://skillicons.dev/icons?i=github" width="45" height="45" />
-      </div>
-    </td>
-  </tr>
-</table>
+### Languages and Tools:
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio" />
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="idea" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github" />
+</div>
 
 <!--- 🌨️ AMBIENT EFFECT: SNOW --->
 <div align="center">
