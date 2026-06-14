@@ -41,7 +41,7 @@
   </tr>
 </table>
 
- <center> 🛠️ Languages and Tools </center>center><br>
+ <center> 🛠️ Languages and Tools </center> <br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="55" alt="java" />
   <img src="https://skillicons.dev/icons?i=python" height="55" alt="python" />
