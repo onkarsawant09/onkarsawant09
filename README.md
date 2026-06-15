@@ -50,8 +50,8 @@
   <img src="https://skillicons.dev/icons?i=php" height="55" alt="php" />
   <img src="https://skillicons.dev/icons?i=js" height="55" alt="javascript" />
   <img src="https://skillicons.dev/icons?i=c" height="55" alt="c" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="cplusplus" />
-  <img src="https://skillicons.dev/icons?i=html" height="55" alt="html" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html" />
   <img src="https://skillicons.dev/icons?i=css" height="55" alt="css" />
   <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="mysql" />
   <img src="https://skillicons.dev/icons?i=vscode" height="55" alt="vscode" />
