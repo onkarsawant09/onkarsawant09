@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=onkarsawant09&label=✨%20PROFILE%20VIEWS&color=e63946&style=flat-square" alt="views" />
 </p>
 
-<!--- LIVE METRICS (FOLLOWERS FIXED WITH AUTO-UPDATE) --->
+<!--- LIVE METRICS --->
 <p align="center">
   <img src="https://img.shields.io/github/followers/onkarsawant09?logo=github&style=for-the-badge&color=0D1117&labelColor=e63946&label=FOLLOWERS" />
   <img src="https://img.shields.io/github/stars/onkarsawant09?logo=star&style=for-the-badge&color=0D1117&labelColor=e63946&label=STARS" />
@@ -88,15 +88,7 @@
   </tr>
 </table>
 
-<!--- CODING GAMES (Optional – keep if you like) --->
-<h3 align="center">🎮 Play a quick coding game</h3>
-<p align="center">
-  <a href="https://play2048.co/"><img src="https://img.shields.io/badge/🎲%20Play%202048%20(Coding%20Edition)-EA4335?style=for-the-badge" /></a>
-  <a href="https://humanbenchmark.com/tests/typing"><img src="https://img.shields.io/badge/⌨️%20Typing%20Test%20for%20Devs-3776AB?style=for-the-badge" /></a>
-  <a href="https://codinggame.github.io/"><img src="https://img.shields.io/badge/🚀%20Code%20Clicker%20(Incremental)-FFD700?style=for-the-badge" /></a>
-</p>
-
-<!--- CONTRIBUTION SNAKE GAME (ANIMATED) --->
+<!--- CONTRIBUTION SNAKE (ANIMATED – requires workflow) --->
 <h3 align="center">🐍 Contribution Snake – eating my commits</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/onkarsawant09/onkarsawant09/output/snake.svg" alt="Snake animation" />
@@ -105,7 +97,17 @@
   <i>✨ My GitHub contribution grid – being devoured by a hungry snake 🐍</i>
 </p>
 
-<!--- SOCIALS & SUPPORT (WHATSAPP ADDED) --->
+<!--- CLICKABLE GAMES (ALWAYS WORK) --->
+<h3 align="center">🎮 Click & Play – Instant Games</h3>
+<p align="center">
+  <a href="https://snake.googlemaps.com/"><img src="https://img.shields.io/badge/🐍_Google_Snake_Game-34A853?style=for-the-badge&logo=google&logoColor=white" /></a>
+  <a href="https://playsnake.org/"><img src="https://img.shields.io/badge/🎮_Classic_Snake-FFA500?style=for-the-badge&logo=game&logoColor=white" /></a>
+  <a href="https://play2048.co/"><img src="https://img.shields.io/badge/🎲_2048-EA4335?style=for-the-badge" /></a>
+  <a href="https://humanbenchmark.com/tests/typing"><img src="https://img.shields.io/badge/⌨️_Typing_Test-3776AB?style=for-the-badge" /></a>
+  <a href="https://codinggame.github.io/"><img src="https://img.shields.io/badge/🚀_Code_Clicker-FFD700?style=for-the-badge" /></a>
+</p>
+
+<!--- SOCIALS & SUPPORT --->
 <h3 align="center">🌐 Connect & support</h3>
 <p align="center">
   <a href="https://linkedin.com/in/onkar-sawant-20264a396"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
