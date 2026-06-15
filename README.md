@@ -13,11 +13,11 @@
   <img src="https://komarev.com/ghpvc/?username=onkarsawant09&label=✨%20PROFILE%20VIEWS&color=e63946&style=flat-square" alt="views" />
 </p>
 
-<!--- LIVE METRICS --->
+<!--- LIVE METRICS (FOLLOWERS FIXED WITH AUTO-UPDATE) --->
 <p align="center">
   <img src="https://img.shields.io/github/followers/onkarsawant09?logo=github&style=for-the-badge&color=0D1117&labelColor=e63946&label=FOLLOWERS" />
   <img src="https://img.shields.io/github/stars/onkarsawant09?logo=star&style=for-the-badge&color=0D1117&labelColor=e63946&label=STARS" />
-  <img src="https://img.shields.io/github/last-commit/onkarsawant09/onkarsawant09?logo=git&style=for-the-badge&color=0D1117&labelColor=e63946&label=LAST%20COMMIT" />
+  <img src="https://img.shields.io/github/last-commit/onkarsawant09/onkarsawant09?logo=git&style=for-the-badge&color=0D1117&labelColor=e63946&label=LAST%20COMMIT&nocache=1" />
 </p>
 
 <!--- ABOUT ME --->
