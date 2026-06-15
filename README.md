@@ -27,7 +27,7 @@
       <h3 style="color: #e63946; font-weight: 700; letter-spacing: 0.5px;">⚡ About me</h3>
       <p style="font-size: 1.05em; font-style: italic; color: #b0b3b8;">Self‑taught developer • clean code enthusiast • building for the web</p>
       <ul style="list-style-type: none; padding-left: 0; margin: 0; line-height: 1.6;">
-        <li style="margin-bottom: 6px;">‣ <b style="color: #e63946;">Currently building:</b> <span style="color: #e0e0e0;">Full‑stack apps with PHP, MySQL & JavaScript</span></li>
+        <li style="margin-bottom: 6px;">‣ <b style="color: #e63946;">Currently building:</b> <span style="color: #e0e0e0;">Full‑stack project with JAVA,PHP, MySQL & JavaScript</span></li>
         <li style="margin-bottom: 6px;">‣ <b style="color: #e63946;">Leveling up:</b> <span style="color: #e0e0e0;">Advanced React.js, Node.js & system design</span></li>
         <li style="margin-bottom: 6px;">‣ <b style="color: #e63946;">Ask me about:</b> <span style="color: #e0e0e0;">PHP, Java, Python, Android, Pandas</span></li>
         <li style="margin-bottom: 6px;">‣ <b style="color: #e63946;">Reach me:</b> <code style="background: #2d2d2d; padding: 2px 6px; border-radius: 6px;">tigranomkar09@gmail.com</code></li>
@@ -50,8 +50,8 @@
   <img src="https://skillicons.dev/icons?i=php" height="55" alt="php" />
   <img src="https://skillicons.dev/icons?i=js" height="55" alt="javascript" />
   <img src="https://skillicons.dev/icons?i=c" height="55" alt="c" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="70" alt="cplusplus" />
+  <img src="https://skillicons.dev/icons?i=html" height="70" alt="html" />
   <img src="https://skillicons.dev/icons?i=css" height="55" alt="css" />
   <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="mysql" />
   <img src="https://skillicons.dev/icons?i=vscode" height="55" alt="vscode" />
