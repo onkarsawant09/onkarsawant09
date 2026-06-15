@@ -96,12 +96,13 @@
   <a href="https://codinggame.github.io/"><img src="https://img.shields.io/badge/🚀%20Code%20Clicker%20(Incremental)-FFD700?style=for-the-badge" /></a>
 </p>
 
-<!--- SOCIALS --->
+<!--- SOCIALS & SUPPORT (WHATSAPP ADDED) --->
 <h3 align="center">🌐 Connect & support</h3>
 <p align="center">
   <a href="https://linkedin.com/in/onkar-sawant-20264a396"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/tigranomkar_.09"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://open.spotify.com/user/31ldrrykp2abn27oyf45wc2tmgsa"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a>
+  <a href="https://wa.me/919075298386"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://buymeacoffee.com/vh6cy267vhg"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 </p>
 
