@@ -88,12 +88,21 @@
   </tr>
 </table>
 
-<!--- CODING GAMES --->
+<!--- CODING GAMES (Optional – keep if you like) --->
 <h3 align="center">🎮 Play a quick coding game</h3>
 <p align="center">
   <a href="https://play2048.co/"><img src="https://img.shields.io/badge/🎲%20Play%202048%20(Coding%20Edition)-EA4335?style=for-the-badge" /></a>
   <a href="https://humanbenchmark.com/tests/typing"><img src="https://img.shields.io/badge/⌨️%20Typing%20Test%20for%20Devs-3776AB?style=for-the-badge" /></a>
   <a href="https://codinggame.github.io/"><img src="https://img.shields.io/badge/🚀%20Code%20Clicker%20(Incremental)-FFD700?style=for-the-badge" /></a>
+</p>
+
+<!--- CONTRIBUTION SNAKE GAME (ANIMATED) --->
+<h3 align="center">🐍 Contribution Snake – eating my commits</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/onkarsawant09/onkarsawant09/output/snake.svg" alt="Snake animation" />
+</p>
+<p align="center">
+  <i>✨ My GitHub contribution grid – being devoured by a hungry snake 🐍</i>
 </p>
 
 <!--- SOCIALS & SUPPORT (WHATSAPP ADDED) --->
