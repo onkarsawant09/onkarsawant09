@@ -60,10 +60,10 @@
   <img src="https://skillicons.dev/icons?i=github" height="55" />
 </div>
 
-<!--- STREAK STATS (FIXED - DEMOLAB + CACHE BUSTER) --->
+<!--- STREAK STATS (FORCE FRESH 17 JUNE) --->
 <h3 align="center">🔥 GitHub Streak Stats</h3>
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=onkarsawant09&theme=radical&hide_border=true&background=0D1117&stroke=e63946&ring=e63946&fire=e63946&currStreakLabel=e63946&v=1" />
+  <img src="https://streak-stats.demolab.com/?user=onkarsawant09&theme=radical&hide_border=true&background=0D1117&stroke=e63946&ring=e63946&fire=e63946&currStreakLabel=e63946&_t=20260617" alt="GitHub Streak" />
 </p>
 
 <!--- ACTIVITY GRAPH --->
