@@ -63,7 +63,7 @@
 <!--- STREAK STATS (FIXED - DEMOLAB + CACHE BUSTER) --->
 <h3 align="center">🔥 GitHub Streak Stats</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=onkarsawant09&theme=radical&hide_border=true&background=0D1117&stroke=e63946&ring=e63946&fire=e63946&currStreakLabel=e63946&v=1" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=onkarsawant09&theme=radical&hide_border=true&background=0D1117&stroke=e63946&ring=e63946&fire=e63946&currStreakLabel=e63946&v=1" />
 </p>
 
 <!--- ACTIVITY GRAPH --->
