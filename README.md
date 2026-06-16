@@ -60,10 +60,10 @@
   <img src="https://skillicons.dev/icons?i=github" height="55" />
 </div>
 
-<!--- STREAK STATS (FIXED - DEMOLAB) --->
+<!--- STREAK STATS (FIXED - DEMOLAB + CACHE BUSTER) --->
 <h3 align="center">🔥 GitHub Streak Stats</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=onkarsawant09&theme=radical&hide_border=true&background=0D1117&stroke=e63946&ring=e63946&fire=e63946&currStreakLabel=e63946&t=20260617" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=onkarsawant09&theme=radical&hide_border=true&background=0D1117&stroke=e63946&ring=e63946&fire=e63946&currStreakLabel=e63946&v=1" alt="GitHub Streak" />
 </p>
 
 <!--- ACTIVITY GRAPH --->
@@ -104,14 +104,11 @@
   <a href="https://open.spotify.com/user/31ldrrykp2abn27oyf45wc2tmgsa"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a>
   <a href="https://wa.me/919075298386"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://buymeacoffee.com/vh6cy267vhg"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onkarsawant09/onkarsawant09/pacman-output/bomberman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onkarsawant09/onkarsawant09/pacman-output/bomberman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/onkarsawant09/onkarsawant09/pacman-output/bomberman-contribution-graph.svg">
-</picture>
+</p>
+
 <!--- FOOTER --->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer" width="100%" />
-  <p><i>“First, solve the problem. Then, write the code.” – John Johnson</i></p>
+  <p><i>"First, solve the problem. Then, write the code." – John Johnson</i></p>
   <p><b>⭐️ From tiger — code artisan | 2026</b></p>
 </div>
