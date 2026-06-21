@@ -1,4 +1,4 @@
-<!--- TOP BANNER IMAGE --->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/banner2.gif" alt="banner" width="100%" />
 </p>
