@@ -96,7 +96,7 @@
   <a href="https://codinggame.github.io/"><img src="https://img.shields.io/badge/🚀%20Code%20Clicker%20(Incremental)-FFD700?style=for-the-badge" /></a>
 </p>
 
-<!--- SOCIALS & SUPPORT (WHATSAPP ADDED) --->
+<!--- SOCIALS & SUPPORT  --->
 <h3 align="center">🌐 Connect & support</h3>
 <p align="center">
   <a href="https://linkedin.com/in/onkar-sawant-20264a396"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
