@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Tiger;Code.+Build.+Improve.;Full‑Stack+Developer;PHP+%7C+Java+%7C+Python;Problem+Solver" alt="Typing SVG" />
 </p>
 
-<!--- VIEW--->
+<!--- VIEWS--->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=onkarsawant09&label=✨%20PROFILE%20VIEWS&color=e63946&style=flat-square" alt="views" />
 </p>
